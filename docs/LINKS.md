@@ -12,7 +12,7 @@ These URLs are the same person across name variants:
 - Deborah A. Minka
 - Deborah Akuoko Minka
 
-_Refreshed 2026-07-23T19:52:44Z by dailyGit search-rank watch._
+_Refreshed 2026-07-23T19:58:14Z by dailyGit search-rank watch._
 
 ## Identity (all names refer to the same person)
 
@@ -256,9 +256,9 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - **GitHub repo:** https://github.com/2000pd3rvr/crushgame
 - **GitHub repo:** https://github.com/2000pd3rvr/datasets
 - **GitHub repo:** https://github.com/2000pd3rvr/models
+- **GitHub repo:** https://github.com/2000pd3rvr/restaurantSample
 - **GitHub repo:** https://github.com/2000pd3rvr/signal_detection_model
 - **GitHub repo:** https://github.com/2000pd3rvr/spad_for_vision_space
-- **GitHub repo:** https://github.com/2000pd3rvr/sushi_atelier
 
 ## Hf Profile
 - **HF profile:** https://huggingface.co/PIANDT
@@ -281,8 +281,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
   - https://0001ama-crushgame.hf.space
 - **HF Space:** https://huggingface.co/spaces/PIANDT/corner_cafe
   - https://piandt-corner_cafe.hf.space
-- **HF Space:** https://huggingface.co/spaces/PIANDT/sushi_atelier
-  - https://piandt-sushi_atelier.hf.space
+- **HF Space:** https://huggingface.co/spaces/PIANDT/restaurantSample
+  - https://piandt-restaurantsample.hf.space
 - **HF Space:** https://huggingface.co/spaces/mvplus/README
   - https://mvplus-readme.hf.space
 - **HF Space:** https://huggingface.co/spaces/mvplus/spad_for_vision
@@ -293,7 +293,7 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - **HF live Space:** https://mvplus-spad-for-vision.hf.space/flat_surface_detection
 - **HF live Space:** https://mvplus-spad-for-vision.hf.space/fluid_purity_demo
 - **HF live Space:** https://mvplus-spad-for-vision.hf.space/spatiotemporal_detection
-- **HF live Space:** https://piandt-sushi-atelier.hf.space
+- **HF live Space:** https://piandt-restaurantsample.hf.space
 
 ## Hf Model
 - **HF model / repo:** https://huggingface.co/0001AMA/profile-hub
