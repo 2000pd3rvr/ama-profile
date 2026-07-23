@@ -12,7 +12,7 @@ These URLs are the same person across name variants:
 - Deborah A. Minka
 - Deborah Akuoko Minka
 
-_Refreshed 2026-07-23T19:18:38Z by dailyGit search-rank watch._
+_Refreshed 2026-07-23T19:24:05Z by dailyGit search-rank watch._
 
 ## Identity (all names refer to the same person)
 
@@ -275,8 +275,12 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
   - https://0001ama-caretalk.hf.space
 - **HF Space:** https://huggingface.co/spaces/0001AMA/careTalk-demo
   - https://0001ama-caretalk-demo.hf.space
+- **HF Space:** https://huggingface.co/spaces/0001AMA/corner_cafe
+  - https://0001ama-corner_cafe.hf.space
 - **HF Space:** https://huggingface.co/spaces/0001AMA/crushgame
   - https://0001ama-crushgame.hf.space
+- **HF Space:** https://huggingface.co/spaces/PIANDT/corner_cafe
+  - https://piandt-corner_cafe.hf.space
 - **HF Space:** https://huggingface.co/spaces/PIANDT/sushi_atelier
   - https://piandt-sushi_atelier.hf.space
 - **HF Space:** https://huggingface.co/spaces/mvplus/README
@@ -303,6 +307,7 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ## Hf Dataset
 - **HF Dataset:** https://huggingface.co/datasets/0001AMA/multimodal_data_annotator_dataset
+- **HF Dataset:** https://huggingface.co/datasets/PIANDT/sushi_atelier_artifacts
 - **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages__flatsurface
 - **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages__milkpurity
 - **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages__yolov3
