@@ -14,12 +14,12 @@ _Refreshed 2026-07-23T08:52:04Z by dailyGit search-rank watch._
 ## If you searched any of these names, use these links
 
 ### Deborah Akuoko
+- **Hugging Face (Deborah Akuoko-Minka / Deborah Akuoko):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **GitHub profile hub:** https://github.com/2000pd3rvr/ama-profile
-- **Hugging Face profile:** https://huggingface.co/0001AMA
-- **HF profile-hub:** https://huggingface.co/0001AMA/profile-hub
+- **HF Deborah Akuoko-Minka (profile text):** https://huggingface.co/0001AMA/profile-hub
 - **Edinburgh Engineering profile:** https://eng.ed.ac.uk/about/people/ms-deborah-ewurama-akuoko
 - **arXiv:** https://arxiv.org/abs/2110.04929v1
 - **Open Optica preprint:** https://doi.org/10.1364/opticaopen.31956108
@@ -27,12 +27,12 @@ _Refreshed 2026-07-23T08:52:04Z by dailyGit search-rank watch._
 - **Canonical LINKS index:** https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
 
 ### Ama Akuoko
+- **Hugging Face (Deborah Akuoko-Minka / Ama Akuoko):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **GitHub profile hub:** https://github.com/2000pd3rvr/ama-profile
-- **Hugging Face profile:** https://huggingface.co/0001AMA
-- **HF profile-hub:** https://huggingface.co/0001AMA/profile-hub
+- **HF Deborah Akuoko-Minka (profile text):** https://huggingface.co/0001AMA/profile-hub
 - **Edinburgh Engineering profile:** https://eng.ed.ac.uk/about/people/ms-deborah-ewurama-akuoko
 - **arXiv:** https://arxiv.org/abs/2110.04929v1
 - **Open Optica preprint:** https://doi.org/10.1364/opticaopen.31956108
@@ -40,12 +40,12 @@ _Refreshed 2026-07-23T08:52:04Z by dailyGit search-rank watch._
 - **Canonical LINKS index:** https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
 
 ### Deborah Ewurama Akuoko
+- **Hugging Face (Deborah Akuoko-Minka / Deborah Ewurama Akuoko):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **GitHub profile hub:** https://github.com/2000pd3rvr/ama-profile
-- **Hugging Face profile:** https://huggingface.co/0001AMA
-- **HF profile-hub:** https://huggingface.co/0001AMA/profile-hub
+- **HF Deborah Akuoko-Minka (profile text):** https://huggingface.co/0001AMA/profile-hub
 - **Edinburgh Engineering profile:** https://eng.ed.ac.uk/about/people/ms-deborah-ewurama-akuoko
 - **arXiv:** https://arxiv.org/abs/2110.04929v1
 - **Open Optica preprint:** https://doi.org/10.1364/opticaopen.31956108
@@ -53,12 +53,12 @@ _Refreshed 2026-07-23T08:52:04Z by dailyGit search-rank watch._
 - **Canonical LINKS index:** https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
 
 ### Deborah Akuoko-Minka
+- **Hugging Face (Deborah Akuoko-Minka / Deborah Akuoko-Minka):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **GitHub profile hub:** https://github.com/2000pd3rvr/ama-profile
-- **Hugging Face profile:** https://huggingface.co/0001AMA
-- **HF profile-hub:** https://huggingface.co/0001AMA/profile-hub
+- **HF Deborah Akuoko-Minka (profile text):** https://huggingface.co/0001AMA/profile-hub
 - **Edinburgh Engineering profile:** https://eng.ed.ac.uk/about/people/ms-deborah-ewurama-akuoko
 - **arXiv:** https://arxiv.org/abs/2110.04929v1
 - **Open Optica preprint:** https://doi.org/10.1364/opticaopen.31956108
@@ -66,12 +66,12 @@ _Refreshed 2026-07-23T08:52:04Z by dailyGit search-rank watch._
 - **Canonical LINKS index:** https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
 
 ### Deborah A. Minka
+- **Hugging Face (Deborah Akuoko-Minka / Deborah A. Minka):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **GitHub profile hub:** https://github.com/2000pd3rvr/ama-profile
-- **Hugging Face profile:** https://huggingface.co/0001AMA
-- **HF profile-hub:** https://huggingface.co/0001AMA/profile-hub
+- **HF Deborah Akuoko-Minka (profile text):** https://huggingface.co/0001AMA/profile-hub
 - **Edinburgh Engineering profile:** https://eng.ed.ac.uk/about/people/ms-deborah-ewurama-akuoko
 - **arXiv:** https://arxiv.org/abs/2110.04929v1
 - **Open Optica preprint:** https://doi.org/10.1364/opticaopen.31956108
@@ -79,12 +79,12 @@ _Refreshed 2026-07-23T08:52:04Z by dailyGit search-rank watch._
 - **Canonical LINKS index:** https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
 
 ### Deborah Akuoko Minka
+- **Hugging Face (Deborah Akuoko-Minka / Deborah Akuoko Minka):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **GitHub profile hub:** https://github.com/2000pd3rvr/ama-profile
-- **Hugging Face profile:** https://huggingface.co/0001AMA
-- **HF profile-hub:** https://huggingface.co/0001AMA/profile-hub
+- **HF Deborah Akuoko-Minka (profile text):** https://huggingface.co/0001AMA/profile-hub
 - **Edinburgh Engineering profile:** https://eng.ed.ac.uk/about/people/ms-deborah-ewurama-akuoko
 - **arXiv:** https://arxiv.org/abs/2110.04929v1
 - **Open Optica preprint:** https://doi.org/10.1364/opticaopen.31956108
