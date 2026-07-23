@@ -12,7 +12,7 @@ These URLs are the same person across name variants:
 - Deborah A. Minka
 - Deborah Akuoko Minka
 
-_Refreshed 2026-07-23T22:31:53Z by dailyGit search-rank watch._
+_Refreshed 2026-07-23T22:37:11Z by dailyGit search-rank watch._
 
 ## Identity (all names refer to the same person)
 
@@ -245,18 +245,14 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - **GitHub profile:** https://github.com/2000pd3rvr
 
 ## Github Repo
-- **GitHub repo:** https://github.com/2000pd3rvr/2000pd3rvr
-- **GitHub repo:** https://github.com/2000pd3rvr/GoldenGreenFC
 - **GitHub repo:** https://github.com/2000pd3rvr/PIANDT
 - **GitHub repo:** https://github.com/2000pd3rvr/ama-profile
 - **GitHub repo:** https://github.com/2000pd3rvr/appVideoDemos
 - **GitHub repo:** https://github.com/2000pd3rvr/auto_object_annotator_0.0.4
 - **GitHub repo:** https://github.com/2000pd3rvr/careTalk
-- **GitHub repo:** https://github.com/2000pd3rvr/corner_cafe
 - **GitHub repo:** https://github.com/2000pd3rvr/crushgame
 - **GitHub repo:** https://github.com/2000pd3rvr/datasets
 - **GitHub repo:** https://github.com/2000pd3rvr/models
-- **GitHub repo:** https://github.com/2000pd3rvr/restaurantSample
 - **GitHub repo:** https://github.com/2000pd3rvr/signal_detection_model
 - **GitHub repo:** https://github.com/2000pd3rvr/spad_for_vision_space
 
@@ -264,29 +260,14 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - **HF profile:** https://huggingface.co/PIANDT
 
 ## Hf Space
-- **HF Space:** https://huggingface.co/spaces/0001AMA/GoldenGreenFC
-  - https://0001ama-goldengreenfc.hf.space
 - **HF Space:** https://huggingface.co/spaces/0001AMA/PIANDT
-  - https://0001ama-piandt.hf.space
 - **HF Space:** https://huggingface.co/spaces/0001AMA/appVideoDemos
 - **HF Space:** https://huggingface.co/spaces/0001AMA/auto_object_annotator_0.0.4
-  - https://0001ama-auto_object_annotator_0.0.4.hf.space
 - **HF Space:** https://huggingface.co/spaces/0001AMA/careTalk
-  - https://0001ama-caretalk.hf.space
 - **HF Space:** https://huggingface.co/spaces/0001AMA/careTalk-demo
-  - https://0001ama-caretalk-demo.hf.space
-- **HF Space:** https://huggingface.co/spaces/0001AMA/corner_cafe
-  - https://0001ama-corner_cafe.hf.space
 - **HF Space:** https://huggingface.co/spaces/0001AMA/crushgame
-  - https://0001ama-crushgame.hf.space
-- **HF Space:** https://huggingface.co/spaces/PIANDT/corner_cafe
-  - https://piandt-corner_cafe.hf.space
 - **HF Space:** https://huggingface.co/spaces/PIANDT/restaurantSample
-  - https://piandt-restaurantsample.hf.space
-- **HF Space:** https://huggingface.co/spaces/mvplus/README
-  - https://mvplus-readme.hf.space
 - **HF Space:** https://huggingface.co/spaces/mvplus/spad_for_vision
-  - https://mvplus-spad_for_vision.hf.space
 
 ## Hf Space Live
 - **HF live Space:** https://mvplus-spad-for-vision.hf.space
@@ -297,24 +278,6 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ## Hf Model
 - **HF model / repo:** https://huggingface.co/0001AMA/profile-hub
-- **HF model:** https://huggingface.co/mvplus/dinov3
-- **HF model:** https://huggingface.co/mvplus/flat_surface
-- **HF model:** https://huggingface.co/mvplus/material_detection_head
-- **HF model:** https://huggingface.co/mvplus/material_purity
-- **HF model:** https://huggingface.co/mvplus/spatiotemporal
-- **HF model:** https://huggingface.co/mvplus/yolov3
-- **HF model:** https://huggingface.co/mvplus/yolov8
-
-## Hf Dataset
-- **HF Dataset:** https://huggingface.co/datasets/0001AMA/multimodal_data_annotator_dataset
-- **HF Dataset:** https://huggingface.co/datasets/PIANDT/sushi_atelier_artifacts
-- **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages__flatsurface
-- **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages__milkpurity
-- **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages__yolov3
-- **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages__yolov8
-- **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages_dino
-- **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages_spatiotemporal
-- **HF Dataset:** https://huggingface.co/datasets/mvplus/val_natural_material_detection
 
 ## Other
 - **CV link:** https://huggingface.co/0001AMA
