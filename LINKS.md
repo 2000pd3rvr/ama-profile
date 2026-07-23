@@ -12,7 +12,7 @@ These URLs are the same person across name variants:
 - Deborah A. Minka
 - Deborah Akuoko Minka
 
-_Refreshed 2026-07-23T19:13:11Z by dailyGit search-rank watch._
+_Refreshed 2026-07-23T19:18:38Z by dailyGit search-rank watch._
 
 ## Identity (all names refer to the same person)
 
@@ -252,11 +252,13 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - **GitHub repo:** https://github.com/2000pd3rvr/appVideoDemos
 - **GitHub repo:** https://github.com/2000pd3rvr/auto_object_annotator_0.0.4
 - **GitHub repo:** https://github.com/2000pd3rvr/careTalk
+- **GitHub repo:** https://github.com/2000pd3rvr/corner_cafe
 - **GitHub repo:** https://github.com/2000pd3rvr/crushgame
 - **GitHub repo:** https://github.com/2000pd3rvr/datasets
 - **GitHub repo:** https://github.com/2000pd3rvr/models
 - **GitHub repo:** https://github.com/2000pd3rvr/signal_detection_model
 - **GitHub repo:** https://github.com/2000pd3rvr/spad_for_vision_space
+- **GitHub repo:** https://github.com/2000pd3rvr/sushi_atelier
 
 ## Hf Profile
 - **HF profile:** https://huggingface.co/PIANDT
