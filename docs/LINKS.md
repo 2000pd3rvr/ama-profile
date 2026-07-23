@@ -12,7 +12,7 @@ These URLs are the same person across name variants:
 - Deborah A. Minka
 - Deborah Akuoko Minka
 
-_Refreshed 2026-07-23T13:04:04Z by dailyGit search-rank watch._
+_Refreshed 2026-07-23T13:06:05Z by dailyGit search-rank watch._
 
 ## Identity (all names refer to the same person)
 
@@ -49,6 +49,16 @@ Published on [Optica Open](https://opticaopen.org) under author name **A. Akuoko
 - **Preprint host:** https://preprint.opticaopen.org
 
 
+**Research Zone / Research Square preprints (author: A. Akuoko)**
+
+Hosted on [Research Square](https://www.researchsquare.com/) under author name **A. Akuoko** (same person as Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah Akuoko-Minka · Deborah A. Minka · Deborah Akuoko Minka).
+
+- *Beyond Appearance — material-aware object detection*: [https://doi.org/10.21203/rs.3.rs-10412364/v1](https://doi.org/10.21203/rs.3.rs-10412364/v1) · [article page](https://www.researchsquare.com/article/rs-10412364/v1)
+- *Beyond Appearance — homogenised milk purity (transient vision)*: [https://doi.org/10.21203/rs.3.rs-10434018/v1](https://doi.org/10.21203/rs.3.rs-10434018/v1) · [article page](https://www.researchsquare.com/article/rs-10434018/v1)
+
+- **Research Square:** https://www.researchsquare.com/
+
+
 **CV and full link inventory:**
 
 - Master link list (preprints, Spaces, datasets, repos): [https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md](https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md)
@@ -77,6 +87,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - **Optica Open (A. Akuoko):** Non-spectral time-resolved SPAD material classification — https://doi.org/10.1364/opticaopen.31957221
 - **Optica Open (A. Akuoko):** Spatiotemporal fusion for material-aware object detection — https://doi.org/10.1364/opticaopen.31960611.v1
 - **Optica Open (A. Akuoko):** Time-resolved SPAD transients for milk purity (optical sensing) — https://doi.org/10.1364/opticaopen.31964601
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — material-aware object detection — https://doi.org/10.21203/rs.3.rs-10412364/v1
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — homogenised milk purity (transient vision) — https://doi.org/10.21203/rs.3.rs-10434018/v1
 
 ### Ama Akuoko
 - **Hugging Face (Deborah Akuoko-Minka / Ama Akuoko):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
@@ -94,6 +106,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - **Optica Open (A. Akuoko):** Non-spectral time-resolved SPAD material classification — https://doi.org/10.1364/opticaopen.31957221
 - **Optica Open (A. Akuoko):** Spatiotemporal fusion for material-aware object detection — https://doi.org/10.1364/opticaopen.31960611.v1
 - **Optica Open (A. Akuoko):** Time-resolved SPAD transients for milk purity (optical sensing) — https://doi.org/10.1364/opticaopen.31964601
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — material-aware object detection — https://doi.org/10.21203/rs.3.rs-10412364/v1
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — homogenised milk purity (transient vision) — https://doi.org/10.21203/rs.3.rs-10434018/v1
 
 ### A. Akuoko
 - **Hugging Face (Deborah Akuoko-Minka / A. Akuoko):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
@@ -111,6 +125,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - **Optica Open (A. Akuoko):** Non-spectral time-resolved SPAD material classification — https://doi.org/10.1364/opticaopen.31957221
 - **Optica Open (A. Akuoko):** Spatiotemporal fusion for material-aware object detection — https://doi.org/10.1364/opticaopen.31960611.v1
 - **Optica Open (A. Akuoko):** Time-resolved SPAD transients for milk purity (optical sensing) — https://doi.org/10.1364/opticaopen.31964601
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — material-aware object detection — https://doi.org/10.21203/rs.3.rs-10412364/v1
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — homogenised milk purity (transient vision) — https://doi.org/10.21203/rs.3.rs-10434018/v1
 
 ### Deborah Ewurama Akuoko
 - **Hugging Face (Deborah Akuoko-Minka / Deborah Ewurama Akuoko):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
@@ -128,6 +144,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - **Optica Open (A. Akuoko):** Non-spectral time-resolved SPAD material classification — https://doi.org/10.1364/opticaopen.31957221
 - **Optica Open (A. Akuoko):** Spatiotemporal fusion for material-aware object detection — https://doi.org/10.1364/opticaopen.31960611.v1
 - **Optica Open (A. Akuoko):** Time-resolved SPAD transients for milk purity (optical sensing) — https://doi.org/10.1364/opticaopen.31964601
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — material-aware object detection — https://doi.org/10.21203/rs.3.rs-10412364/v1
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — homogenised milk purity (transient vision) — https://doi.org/10.21203/rs.3.rs-10434018/v1
 
 ### Deborah Akuoko-Minka
 - **Hugging Face (Deborah Akuoko-Minka / Deborah Akuoko-Minka):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
@@ -145,6 +163,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - **Optica Open (A. Akuoko):** Non-spectral time-resolved SPAD material classification — https://doi.org/10.1364/opticaopen.31957221
 - **Optica Open (A. Akuoko):** Spatiotemporal fusion for material-aware object detection — https://doi.org/10.1364/opticaopen.31960611.v1
 - **Optica Open (A. Akuoko):** Time-resolved SPAD transients for milk purity (optical sensing) — https://doi.org/10.1364/opticaopen.31964601
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — material-aware object detection — https://doi.org/10.21203/rs.3.rs-10412364/v1
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — homogenised milk purity (transient vision) — https://doi.org/10.21203/rs.3.rs-10434018/v1
 
 ### Deborah A. Minka
 - **Hugging Face (Deborah Akuoko-Minka / Deborah A. Minka):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
@@ -162,6 +182,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - **Optica Open (A. Akuoko):** Non-spectral time-resolved SPAD material classification — https://doi.org/10.1364/opticaopen.31957221
 - **Optica Open (A. Akuoko):** Spatiotemporal fusion for material-aware object detection — https://doi.org/10.1364/opticaopen.31960611.v1
 - **Optica Open (A. Akuoko):** Time-resolved SPAD transients for milk purity (optical sensing) — https://doi.org/10.1364/opticaopen.31964601
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — material-aware object detection — https://doi.org/10.21203/rs.3.rs-10412364/v1
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — homogenised milk purity (transient vision) — https://doi.org/10.21203/rs.3.rs-10434018/v1
 
 ### Deborah Akuoko Minka
 - **Hugging Face (Deborah Akuoko-Minka / Deborah Akuoko Minka):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
@@ -179,6 +201,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - **Optica Open (A. Akuoko):** Non-spectral time-resolved SPAD material classification — https://doi.org/10.1364/opticaopen.31957221
 - **Optica Open (A. Akuoko):** Spatiotemporal fusion for material-aware object detection — https://doi.org/10.1364/opticaopen.31960611.v1
 - **Optica Open (A. Akuoko):** Time-resolved SPAD transients for milk purity (optical sensing) — https://doi.org/10.1364/opticaopen.31964601
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — material-aware object detection — https://doi.org/10.21203/rs.3.rs-10412364/v1
+- **Research Zone / Research Square (A. Akuoko):** Beyond Appearance — homogenised milk purity (transient vision) — https://doi.org/10.21203/rs.3.rs-10434018/v1
 
 ## Full inventory (CV + live HF/GH)
 
