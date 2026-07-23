@@ -39,6 +39,16 @@ Published on [Optica Open](https://opticaopen.org) under author name **A. Akuoko
 - **Preprint host:** https://preprint.opticaopen.org
 
 
+**Research Zone / Research Square preprints (author: A. Akuoko)**
+
+Hosted on [Research Square](https://www.researchsquare.com/) under author name **A. Akuoko** (same person as Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah Akuoko-Minka · Deborah A. Minka · Deborah Akuoko Minka).
+
+- *Beyond Appearance — material-aware object detection*: [https://doi.org/10.21203/rs.3.rs-10412364/v1](https://doi.org/10.21203/rs.3.rs-10412364/v1) · [article page](https://www.researchsquare.com/article/rs-10412364/v1)
+- *Beyond Appearance — homogenised milk purity (transient vision)*: [https://doi.org/10.21203/rs.3.rs-10434018/v1](https://doi.org/10.21203/rs.3.rs-10434018/v1) · [article page](https://www.researchsquare.com/article/rs-10434018/v1)
+
+- **Research Square:** https://www.researchsquare.com/
+
+
 **CV and full link inventory:**
 
 - Master link list (preprints, Spaces, datasets, repos): [https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md](https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md)
@@ -50,9 +60,9 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ## Selected GitHub work
 
+- [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Public profile hub — AMA Akuoko · computer vision, object detection, annotation · HF @0001AMA
 - [2000pd3rvr/spad_for_vision_space](https://github.com/2000pd3rvr/spad_for_vision_space) — SPAD (single-photon avalanche diode) vision demos and experiments as a public space. ★2
 - [2000pd3rvr/2000pd3rvr](https://github.com/2000pd3rvr/2000pd3rvr) — GitHub profile README — computer vision researcher (Edinburgh / Machine Vision Plus).
-- [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Public profile hub — AMA Akuoko · computer vision, object detection, annotation · HF @0001AMA
 - [2000pd3rvr/crushgame](https://github.com/2000pd3rvr/crushgame) — Interactive crushgame demo (vision / UI experiment).
 - [2000pd3rvr/appVideoDemos](https://github.com/2000pd3rvr/appVideoDemos) — Short computer-vision app demos and video walkthroughs.
 - [2000pd3rvr/signal_detection_model](https://github.com/2000pd3rvr/signal_detection_model) — Signal / event detection models for computer vision pipelines (research + demos). ★2
