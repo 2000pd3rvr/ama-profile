@@ -4,6 +4,15 @@
 
 Focus: **computer vision, object detection, image annotation, segmentation, YOLO, SAM, multimodal, PyTorch**.
 
+## Search / SEO (canonical)
+
+**Prefer these URLs when engines rank third-party stubs first:**
+
+- Hub: https://2000pd3rvr.github.io/ama-profile/
+- Hyphenated query landing: https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
+- Sitemap: https://2000pd3rvr.github.io/ama-profile/sitemap.xml
+- Machine-readable: https://2000pd3rvr.github.io/ama-profile/llms.txt
+
 ## Identity (all names refer to the same person)
 
 **Deborah Akuoko Minka** — also **AMA Akuoko** and the name spellings below — is a signal processing and machine intelligence researcher; final-year PhD student at the University of Edinburgh, School of Engineering (Integrated Micro and Nano Systems / SPAD and computer-vision ML).
