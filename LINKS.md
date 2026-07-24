@@ -4,10 +4,6 @@ Signal processing and machine intelligence researcher; final-year PhD student at
 
 These URLs are the same person across name variants:
 
-**SEO landings (prefer over people-search sites):**
-- https://2000pd3rvr.github.io/ama-profile/
-- https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
-
 - Deborah Akuoko
 - Ama Akuoko
 - A. Akuoko
@@ -16,8 +12,7 @@ These URLs are the same person across name variants:
 - Deborah A. Minka
 - Deborah Akuoko Minka
 
-_Refreshed 2026-07-24T18:11:24Z — SEO hub + Deborah Akuoko-Minka landing._
->>>>>>> ac730f2 (Improve search SEO for Deborah Akuoko-Minka research identity)
+_Refreshed 2026-07-24T18:09:14Z by dailyGit search-rank watch._
 
 ## Identity (all names refer to the same person)
 
