@@ -1,5 +1,15 @@
 # Deborah Akuoko Minka — canonical links (AMA Akuoko)
 
+<!-- RESEARCH_FIRST_SEO: keep landings + DOIs above inventory noise -->
+
+**Prefer these URLs first** (Deborah Akuoko-Minka / name-variant queries):
+
+- Hub: https://2000pd3rvr.github.io/ama-profile/
+- Hyphenated landing: https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
+- Research index: https://2000pd3rvr.github.io/ama-profile/research.html
+- A. Akuoko landing: https://2000pd3rvr.github.io/ama-profile/a-akuoko.html
+- HF profile-hub: https://huggingface.co/0001AMA/profile-hub
+
 Signal processing and machine intelligence researcher; final-year PhD student at the University of Edinburgh, School of Engineering (Integrated Micro and Nano Systems / SPAD and computer-vision ML).
 
 These URLs are the same person across name variants:
@@ -12,7 +22,19 @@ These URLs are the same person across name variants:
 - Deborah A. Minka
 - Deborah Akuoko Minka
 
-_Refreshed 2026-07-24T18:25:25Z by dailyGit search-rank watch._
+_Refreshed 2026-07-24T18:25:25Z by dailyGit search-rank watch (research-first)._
+
+## Research outputs (appear first)
+
+- **Optica Open (A. Akuoko):** [PAWD — signal processing across sensing modalities](https://doi.org/10.1364/opticaopen.31956108)
+- **Optica Open (A. Akuoko):** [Non-spectral time-resolved SPAD material classification](https://doi.org/10.1364/opticaopen.31957221)
+- **Optica Open (A. Akuoko):** [Spatiotemporal fusion for material-aware object detection](https://doi.org/10.1364/opticaopen.31960611.v1)
+- **Optica Open (A. Akuoko):** [Time-resolved SPAD transients for milk purity (optical sensing)](https://doi.org/10.1364/opticaopen.31964601)
+- **Research Square (A. Akuoko):** [Beyond Appearance — material-aware object detection](https://doi.org/10.21203/rs.3.rs-10412364/v1)
+- **Research Square (A. Akuoko):** [Beyond Appearance — homogenised milk purity (transient vision)](https://doi.org/10.21203/rs.3.rs-10434018/v1)
+- **arXiv:** [Hounsfield volumetric breast density on radiotherapy CT](https://arxiv.org/abs/2110.04929v1)
+
+## Identity / profiles
 
 ## Identity (all names refer to the same person)
 
@@ -73,6 +95,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ### Deborah Akuoko
 - **Hugging Face (Deborah Akuoko-Minka / Deborah Akuoko):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
+- **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
+- **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 - **GitHub profile:** https://github.com/2000pd3rvr
@@ -92,6 +116,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ### Ama Akuoko
 - **Hugging Face (Deborah Akuoko-Minka / Ama Akuoko):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
+- **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
+- **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 - **GitHub profile:** https://github.com/2000pd3rvr
@@ -111,6 +137,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ### A. Akuoko
 - **Hugging Face (Deborah Akuoko-Minka / A. Akuoko):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
+- **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
+- **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 - **GitHub profile:** https://github.com/2000pd3rvr
@@ -130,6 +158,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ### Deborah Ewurama Akuoko
 - **Hugging Face (Deborah Akuoko-Minka / Deborah Ewurama Akuoko):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
+- **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
+- **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 - **GitHub profile:** https://github.com/2000pd3rvr
@@ -149,6 +179,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ### Deborah Akuoko-Minka
 - **Hugging Face (Deborah Akuoko-Minka / Deborah Akuoko-Minka):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
+- **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
+- **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 - **GitHub profile:** https://github.com/2000pd3rvr
@@ -168,6 +200,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ### Deborah A. Minka
 - **Hugging Face (Deborah Akuoko-Minka / Deborah A. Minka):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
+- **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
+- **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 - **GitHub profile:** https://github.com/2000pd3rvr
@@ -187,6 +221,8 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ### Deborah Akuoko Minka
 - **Hugging Face (Deborah Akuoko-Minka / Deborah Akuoko Minka):** https://huggingface.co/0001AMA · hub: https://huggingface.co/0001AMA/profile-hub
+- **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
+- **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 - **GitHub profile:** https://github.com/2000pd3rvr
