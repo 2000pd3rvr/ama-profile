@@ -1,5 +1,16 @@
 # Deborah Akuoko Minka — canonical links (AMA Akuoko)
 
+<!-- SEO: research-first identity -->
+# Deborah Akuoko-Minka / Deborah Akuoko Minka — link inventory
+
+**Canonical Pages (rank these first):**
+- https://2000pd3rvr.github.io/ama-profile/
+- https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
+- https://2000pd3rvr.github.io/ama-profile/research.html
+- https://huggingface.co/0001AMA/profile-hub
+
+---
+
 Signal processing and machine intelligence researcher; final-year PhD student at the University of Edinburgh, School of Engineering (Integrated Micro and Nano Systems / SPAD and computer-vision ML).
 
 These URLs are the same person across name variants:
