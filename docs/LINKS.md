@@ -86,7 +86,6 @@ Published on [Optica Open](https://opticaopen.org) under author name **A. Akuoko
 - **Optica Open portal:** https://opticaopen.org
 - **Preprint host:** https://preprint.opticaopen.org
 
-
 **Research Zone / Research Square preprints (author: A. Akuoko)**
 
 Hosted on [Research Square](https://www.researchsquare.com/) under author name **A. Akuoko** (same person as Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah Akuoko-Minka · Deborah A. Minka · Deborah Akuoko Minka).
@@ -95,7 +94,6 @@ Hosted on [Research Square](https://www.researchsquare.com/) under author name *
 - *Beyond Appearance — homogenised milk purity (transient vision)*: [https://doi.org/10.21203/rs.3.rs-10434018/v1](https://doi.org/10.21203/rs.3.rs-10434018/v1) · [article page](https://www.researchsquare.com/article/rs-10434018/v1)
 
 - **Research Square:** https://www.researchsquare.com/
-
 
 **CV and full link inventory:**
 
