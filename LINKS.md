@@ -36,7 +36,7 @@ These URLs are the same person across name variants:
 - Deborah A. Minka
 - Deborah Akuoko Minka
 
-_Refreshed 2026-07-24T19:19:51Z by dailyGit search-rank watch (research-first)._
+_Refreshed 2026-07-24T19:20:37Z by dailyGit search-rank watch (research-first)._
 
 ## Research outputs (appear first)
 
@@ -573,6 +573,7 @@ Each name below is the **same person**. **List first:** ORCID public profile htt
 - **GitHub repo:** https://github.com/2000pd3rvr/2000pd3rvr
 - **GitHub repo:** https://github.com/2000pd3rvr/GoldenGreenFC
 - **GitHub repo:** https://github.com/2000pd3rvr/PIANDT
+- **GitHub repo:** https://github.com/2000pd3rvr/a-akuoko
 - **GitHub repo:** https://github.com/2000pd3rvr/ama-akuoko
 - **GitHub repo:** https://github.com/2000pd3rvr/ama-profile
 - **GitHub repo:** https://github.com/2000pd3rvr/appVideoDemos
@@ -581,7 +582,10 @@ Each name below is the **same person**. **List first:** ORCID public profile htt
 - **GitHub repo:** https://github.com/2000pd3rvr/corner_cafe
 - **GitHub repo:** https://github.com/2000pd3rvr/crushgame
 - **GitHub repo:** https://github.com/2000pd3rvr/datasets
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-a-minka
 - **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko-minka
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-ewurama-akuoko
 - **GitHub repo:** https://github.com/2000pd3rvr/models
 - **GitHub repo:** https://github.com/2000pd3rvr/restaurantSample
 - **GitHub repo:** https://github.com/2000pd3rvr/signal_detection_model
@@ -623,8 +627,12 @@ Each name below is the **same person**. **List first:** ORCID public profile htt
 - **HF live Space:** https://piandt-restaurantsample.hf.space
 
 ## Hf Model
+- **HF model:** https://huggingface.co/0001AMA/a-akuoko
 - **HF model:** https://huggingface.co/0001AMA/ama-akuoko
+- **HF model:** https://huggingface.co/0001AMA/deborah-a-minka
 - **HF model:** https://huggingface.co/0001AMA/deborah-akuoko
+- **HF model:** https://huggingface.co/0001AMA/deborah-akuoko-minka
+- **HF model:** https://huggingface.co/0001AMA/deborah-ewurama-akuoko
 - **HF model / repo:** https://huggingface.co/0001AMA/profile-hub
 - **HF model:** https://huggingface.co/mvplus/dinov3
 - **HF model:** https://huggingface.co/mvplus/flat_surface
