@@ -189,13 +189,13 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 ## Selected GitHub work
 
 - [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID · HF ★3
-- [2000pd3rvr/2000pd3rvr](https://github.com/2000pd3rvr/2000pd3rvr) — GitHub profile README — computer vision researcher (Edinburgh / Machine Vision Plus).
-- [2000pd3rvr/deborah-akuoko-minka-research](https://github.com/2000pd3rvr/deborah-akuoko-minka-research) — Deborah Akuoko-Minka — SPAD sensing & machine intelligence (University of Edinburgh, School of Engineering). Same person as Deborah Akuoko-Minka / Ama Akuoko.
-- [2000pd3rvr/deborah-a-minka](https://github.com/2000pd3rvr/deborah-a-minka) — Deborah A. Minka — SPAD sensing & machine intelligence (University of Edinburgh, School of Engineering). Same person as Deborah Akuoko-Minka / Ama Akuoko.
-- [2000pd3rvr/deborah-akuoko-minka](https://github.com/2000pd3rvr/deborah-akuoko-minka) — Deborah Akuoko-Minka — SPAD sensing & machine intelligence (University of Edinburgh, School of Engineering). Same person as Deborah Akuoko-Minka / Ama Akuoko.
-- [2000pd3rvr/deborah-ewurama-akuoko](https://github.com/2000pd3rvr/deborah-ewurama-akuoko) — Deborah Ewurama Akuoko — SPAD sensing & machine intelligence (University of Edinburgh, School of Engineering). Same person as Deborah Akuoko-Minka / Ama Akuoko.
-- [2000pd3rvr/a-akuoko](https://github.com/2000pd3rvr/a-akuoko) — A. Akuoko — SPAD sensing & machine intelligence (University of Edinburgh, School of Engineering). Same person as Deborah Akuoko-Minka / Ama Akuoko.
-- [2000pd3rvr/ama-akuoko](https://github.com/2000pd3rvr/ama-akuoko) — Ama Akuoko — SPAD sensing & machine intelligence (University of Edinburgh, School of Engineering). Same person as Deborah Akuoko-Minka / Ama Akuoko.
+- [2000pd3rvr/spad_for_vision_space](https://github.com/2000pd3rvr/spad_for_vision_space) — SPAD (single-photon avalanche diode) vision demos and experiments as a public space. ★2
+- [2000pd3rvr/2000pd3rvr](https://github.com/2000pd3rvr/2000pd3rvr) — GitHub profile README — machine intelligence researcher (University of Edinburgh, School of Engineering / Machine Vision Plus).
+- [2000pd3rvr/crushgame](https://github.com/2000pd3rvr/crushgame) — Interactive crushgame demo (vision / UI experiment).
+- [2000pd3rvr/appVideoDemos](https://github.com/2000pd3rvr/appVideoDemos) — Short machine-intelligence app demos and video walkthroughs.
+- [2000pd3rvr/signal_detection_model](https://github.com/2000pd3rvr/signal_detection_model) — Signal / event detection models for machine intelligence pipelines (research + demos). ★2
+- [2000pd3rvr/auto_object_annotator_0.0.4](https://github.com/2000pd3rvr/auto_object_annotator_0.0.4) — Automatic object annotation for vision datasets — observe, label, and iterate without heavy tooling.
+- [2000pd3rvr/GoldenGreenFC](https://github.com/2000pd3rvr/GoldenGreenFC) — Golden Green Sporting Club public site / Space. ★2
 
 ## Featured projects
 
@@ -223,4 +223,4 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - Machine Vision Plus / mvplus: https://huggingface.co/mvplus
 - Cross-link: GitHub ↔ Hugging Face profiles above
 
-_Last refreshed by dailyGit profile SEO on 2026-07-25 (UTC). Research-first layout preserved._
+_Last refreshed by dailyGit profile SEO on 2026-07-26 (UTC). Research-first layout preserved._
