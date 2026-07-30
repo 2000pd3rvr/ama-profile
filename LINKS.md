@@ -37,7 +37,7 @@ These URLs are the same person across name variants:
 - Deborah Akuoko-Minka
 - Deborah A. Minka
 
-_Refreshed 2026-07-30T19:23:11Z by dailyGit search-rank watch (research-first)._
+_Refreshed 2026-07-30T19:28:38Z by dailyGit search-rank watch (research-first)._
 
 ## Research outputs (appear first)
 
@@ -643,7 +643,10 @@ Each name below is the **same person**. **List first:** ORCID public profile htt
 - **GitHub repo:** https://github.com/2000pd3rvr/GoldenGreenFC
 - **GitHub repo:** https://github.com/2000pd3rvr/PIANDT
 - **GitHub repo:** https://github.com/2000pd3rvr/a-akuoko
+- **GitHub repo:** https://github.com/2000pd3rvr/a-akuoko-machine-intelligence
 - **GitHub repo:** https://github.com/2000pd3rvr/ama-akuoko
+- **GitHub repo:** https://github.com/2000pd3rvr/ama-akuoko-machine-intelligence
+- **GitHub repo:** https://github.com/2000pd3rvr/ama-akuoko-spad
 - **GitHub repo:** https://github.com/2000pd3rvr/ama-profile
 - **GitHub repo:** https://github.com/2000pd3rvr/appVideoDemos
 - **GitHub repo:** https://github.com/2000pd3rvr/auto_object_annotator_0.0.4
@@ -652,10 +655,15 @@ Each name below is the **same person**. **List first:** ORCID public profile htt
 - **GitHub repo:** https://github.com/2000pd3rvr/crushgame
 - **GitHub repo:** https://github.com/2000pd3rvr/datasets
 - **GitHub repo:** https://github.com/2000pd3rvr/deborah-a-minka
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-a-minka-research
 - **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko-edinburgh
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko-machine-intelligence
 - **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko-minka
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko-minka-machine-intelligence
 - **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko-minka-research
 - **GitHub repo:** https://github.com/2000pd3rvr/deborah-ewurama-akuoko
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-ewurama-akuoko-research
 - **GitHub repo:** https://github.com/2000pd3rvr/models
 - **GitHub repo:** https://github.com/2000pd3rvr/restaurantSample
 - **GitHub repo:** https://github.com/2000pd3rvr/signal_detection_model
