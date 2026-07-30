@@ -1,2 +1,2 @@
-last_seo_boost=2026-07-30T00:24:41Z
+last_seo_boost=2026-07-30T00:25:28Z
 surfaces=name_variant_hubs+ama-profile+profile-hub
