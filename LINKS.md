@@ -37,7 +37,7 @@ These URLs are the same person across name variants:
 - Deborah Akuoko-Minka
 - Deborah A. Minka
 
-_Refreshed 2026-07-30T19:33:46Z by dailyGit search-rank watch (research-first)._
+_Refreshed 2026-07-30T19:38:59Z by dailyGit search-rank watch (research-first)._
 
 ## Research outputs (appear first)
 
@@ -707,14 +707,20 @@ Each name below is the **same person**. **List first:** ORCID public profile htt
 
 ## Hf Model
 - **HF model:** https://huggingface.co/0001AMA/a-akuoko
+- **HF model:** https://huggingface.co/0001AMA/a-akuoko-machine-intelligence
 - **HF model:** https://huggingface.co/0001AMA/ama-akuoko
+- **HF model:** https://huggingface.co/0001AMA/ama-akuoko-machine-intelligence
+- **HF model:** https://huggingface.co/0001AMA/ama-akuoko-spad
 - **HF model:** https://huggingface.co/0001AMA/deborah-a-minka
+- **HF model:** https://huggingface.co/0001AMA/deborah-a-minka-research
 - **HF model:** https://huggingface.co/0001AMA/deborah-akuoko
+- **HF model:** https://huggingface.co/0001AMA/deborah-akuoko-edinburgh
 - **HF model:** https://huggingface.co/0001AMA/deborah-akuoko-machine-intelligence
 - **HF model:** https://huggingface.co/0001AMA/deborah-akuoko-minka
 - **HF model:** https://huggingface.co/0001AMA/deborah-akuoko-minka-machine-intelligence
 - **HF model:** https://huggingface.co/0001AMA/deborah-akuoko-minka-research
 - **HF model:** https://huggingface.co/0001AMA/deborah-ewurama-akuoko
+- **HF model:** https://huggingface.co/0001AMA/deborah-ewurama-akuoko-research
 - **HF model / repo:** https://huggingface.co/0001AMA/profile-hub
 - **HF model:** https://huggingface.co/mvplus/dinov3
 - **HF model:** https://huggingface.co/mvplus/flat_surface
