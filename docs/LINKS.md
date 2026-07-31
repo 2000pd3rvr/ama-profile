@@ -37,7 +37,7 @@ These URLs are the same person across name variants:
 - Deborah Akuoko-Minka
 - Deborah A. Minka
 
-_Refreshed 2026-07-31T17:38:49Z by dailyGit search-rank watch (research-first)._
+_Refreshed 2026-07-31T17:44:40Z by dailyGit search-rank watch (research-first)._
 
 ## Research outputs (appear first)
 
@@ -639,16 +639,36 @@ Each name below is the **same person**. **List first:** ORCID public profile htt
 - **GitHub profile:** https://github.com/2000pd3rvr
 
 ## Github Repo
+- **GitHub repo:** https://github.com/2000pd3rvr/2000pd3rvr
+- **GitHub repo:** https://github.com/2000pd3rvr/GoldenGreenFC
 - **GitHub repo:** https://github.com/2000pd3rvr/PIANDT
+- **GitHub repo:** https://github.com/2000pd3rvr/a-akuoko
+- **GitHub repo:** https://github.com/2000pd3rvr/a-akuoko-machine-intelligence
+- **GitHub repo:** https://github.com/2000pd3rvr/ama-akuoko
+- **GitHub repo:** https://github.com/2000pd3rvr/ama-akuoko-machine-intelligence
+- **GitHub repo:** https://github.com/2000pd3rvr/ama-akuoko-spad
 - **GitHub repo:** https://github.com/2000pd3rvr/ama-profile
 - **GitHub repo:** https://github.com/2000pd3rvr/appVideoDemos
 - **GitHub repo:** https://github.com/2000pd3rvr/auto_object_annotator_0.0.4
 - **GitHub repo:** https://github.com/2000pd3rvr/careTalk
+- **GitHub repo:** https://github.com/2000pd3rvr/corner_cafe
 - **GitHub repo:** https://github.com/2000pd3rvr/crushgame
 - **GitHub repo:** https://github.com/2000pd3rvr/datasets
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-a-minka
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-a-minka-research
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko-edinburgh
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko-machine-intelligence
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko-minka
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko-minka-machine-intelligence
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-akuoko-minka-research
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-ewurama-akuoko
+- **GitHub repo:** https://github.com/2000pd3rvr/deborah-ewurama-akuoko-research
 - **GitHub repo:** https://github.com/2000pd3rvr/models
+- **GitHub repo:** https://github.com/2000pd3rvr/restaurantSample
 - **GitHub repo:** https://github.com/2000pd3rvr/signal_detection_model
 - **GitHub repo:** https://github.com/2000pd3rvr/spad_for_vision_space
+- **GitHub repo:** https://github.com/2000pd3rvr/zz-delete-me-online-presence-org-test
 
 ## Hf Profile
 - **HF profile:** https://huggingface.co/PIANDT
@@ -712,6 +732,7 @@ Each name below is the **same person**. **List first:** ORCID public profile htt
 
 ## Hf Dataset
 - **HF Dataset:** https://huggingface.co/datasets/0001AMA/multimodal_data_annotator_dataset
+- **HF Dataset:** https://huggingface.co/datasets/PIANDT/sushi_atelier_artifacts
 - **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages__flatsurface
 - **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages__milkpurity
 - **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages__yolov3
