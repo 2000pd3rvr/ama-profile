@@ -37,7 +37,7 @@ These URLs are the same person across name variants:
 - Deborah Akuoko-Minka
 - Deborah A. Minka
 
-_Refreshed 2026-08-01T20:48:32Z by dailyGit search-rank watch (research-first)._
+_Refreshed 2026-08-01T20:54:59Z by dailyGit search-rank watch (research-first)._
 
 ## Research outputs (appear first)
 
@@ -731,6 +731,7 @@ Each name below is the **same person**. **List first:** ORCID public profile htt
 - **HF model:** https://huggingface.co/mvplus/yolov8
 
 ## Hf Dataset
+- **HF Dataset:** https://huggingface.co/datasets/0001AMA/multimodal_data_annotator_dataset
 - **HF Dataset:** https://huggingface.co/datasets/PIANDT/sushi_atelier_artifacts
 - **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages__flatsurface
 - **HF Dataset:** https://huggingface.co/datasets/mvplus/testmages__milkpurity
