@@ -228,14 +228,14 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ## Selected GitHub work
 
-- [2000pd3rvr/deborah-akuoko-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-machine-intelligence) — Deborah Akuoko — machine intelligence — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
 - [2000pd3rvr/deborah-akuoko-minka](https://github.com/2000pd3rvr/deborah-akuoko-minka) — Deborah Akuoko-Minka — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
+- [2000pd3rvr/deborah-a-minka](https://github.com/2000pd3rvr/deborah-a-minka) — Deborah A. Minka — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
+- [2000pd3rvr/deborah-akuoko](https://github.com/2000pd3rvr/deborah-akuoko) — Deborah Akuoko — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
+- [2000pd3rvr/a-akuoko-machine-intelligence](https://github.com/2000pd3rvr/a-akuoko-machine-intelligence) — A. Akuoko — machine intelligence — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
+- [2000pd3rvr/ama-akuoko-machine-intelligence](https://github.com/2000pd3rvr/ama-akuoko-machine-intelligence) — Ama Akuoko — machine intelligence — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
+- [2000pd3rvr/deborah-akuoko-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-machine-intelligence) — Deborah Akuoko — machine intelligence — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
 - [2000pd3rvr/deborah-akuoko-minka-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-minka-machine-intelligence) — Deborah Akuoko-Minka — machine intelligence — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
 - [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko Minka / Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID · HF ★2
-- [2000pd3rvr/a-akuoko](https://github.com/2000pd3rvr/a-akuoko) — A. Akuoko — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
-- [2000pd3rvr/deborah-a-minka-research](https://github.com/2000pd3rvr/deborah-a-minka-research) — Deborah A. Minka — research — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
-- [2000pd3rvr/a-akuoko-machine-intelligence](https://github.com/2000pd3rvr/a-akuoko-machine-intelligence) — A. Akuoko — machine intelligence — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
-- [2000pd3rvr/deborah-ewurama-akuoko-research](https://github.com/2000pd3rvr/deborah-ewurama-akuoko-research) — Deborah Ewurama Akuoko — research — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
 
 ## Featured projects
 
@@ -263,4 +263,4 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - Machine Vision Plus / mvplus: https://huggingface.co/mvplus
 - Cross-link: GitHub ↔ Hugging Face profiles above
 
-_Last refreshed by dailyGit profile SEO on 2026-08-01 (UTC). Research-first layout preserved._
+_Last refreshed by dailyGit profile SEO on 2026-08-02 (UTC). Research-first layout preserved._
