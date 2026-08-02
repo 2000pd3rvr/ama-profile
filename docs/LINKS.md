@@ -37,7 +37,7 @@ These URLs are the same person across name variants:
 - Deborah Akuoko-Minka
 - Deborah A. Minka
 
-_Refreshed 2026-08-02T14:42:50Z by dailyGit search-rank watch (research-first)._
+_Refreshed 2026-08-02T17:34:44Z by dailyGit search-rank watch (research-first)._
 
 ## Research outputs (appear first)
 
