@@ -37,7 +37,7 @@ These URLs are the same person across name variants:
 - Deborah Akuoko-Minka
 - Deborah A. Minka
 
-_Refreshed 2026-08-05T21:36:37Z by dailyGit search-rank watch (research-first)._
+_Refreshed 2026-08-05T21:41:55Z by dailyGit search-rank watch (research-first)._
 
 ## Research outputs (appear first)
 
@@ -642,6 +642,7 @@ Each name below is the **same person**. **List first:** ORCID public profile htt
 - **GitHub repo:** https://github.com/2000pd3rvr/2000pd3rvr
 - **GitHub repo:** https://github.com/2000pd3rvr/GoldenGreenFC
 - **GitHub repo:** https://github.com/2000pd3rvr/PIANDT
+- **GitHub repo:** https://github.com/2000pd3rvr/SMOS
 - **GitHub repo:** https://github.com/2000pd3rvr/a-akuoko
 - **GitHub repo:** https://github.com/2000pd3rvr/a-akuoko-machine-intelligence
 - **GitHub repo:** https://github.com/2000pd3rvr/ama-akuoko
