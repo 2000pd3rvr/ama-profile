@@ -37,7 +37,7 @@ These URLs are the same person across name variants:
 - Deborah Akuoko-Minka
 - Deborah A. Minka
 
-_Refreshed 2026-08-05T20:19:15Z by dailyGit search-rank watch (research-first)._
+_Refreshed 2026-08-05T20:26:59Z by dailyGit search-rank watch (research-first)._
 
 ## Research outputs (appear first)
 
@@ -677,7 +677,6 @@ Each name below is the **same person**. **List first:** ORCID public profile htt
 - **HF Space:** https://huggingface.co/spaces/0001AMA/GoldenGreenFC
   - https://0001ama-goldengreenfc.hf.space
 - **HF Space:** https://huggingface.co/spaces/0001AMA/PIANDT
-  - https://0001ama-piandt.hf.space
 - **HF Space:** https://huggingface.co/spaces/0001AMA/appVideoDemos
 - **HF Space:** https://huggingface.co/spaces/0001AMA/auto_object_annotator_0.0.4
   - https://0001ama-auto_object_annotator_0.0.4.hf.space
