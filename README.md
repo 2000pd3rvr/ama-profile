@@ -228,14 +228,14 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ## Selected GitHub work
 
-- [2000pd3rvr/ama-akuoko-spad](https://github.com/2000pd3rvr/ama-akuoko-spad) — Ama Akuoko — SPAD sensing — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
-- [2000pd3rvr/deborah-a-minka-research](https://github.com/2000pd3rvr/deborah-a-minka-research) — Deborah A. Minka — research — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
+- [2000pd3rvr/ama-akuoko-machine-intelligence](https://github.com/2000pd3rvr/ama-akuoko-machine-intelligence) — Ama Akuoko — machine intelligence — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
+- [2000pd3rvr/a-akuoko-machine-intelligence](https://github.com/2000pd3rvr/a-akuoko-machine-intelligence) — A. Akuoko — machine intelligence — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
 - [2000pd3rvr/deborah-akuoko-minka-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-minka-machine-intelligence) — Deborah Akuoko-Minka — machine intelligence — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
-- [2000pd3rvr/deborah-ewurama-akuoko-research](https://github.com/2000pd3rvr/deborah-ewurama-akuoko-research) — Deborah Ewurama Akuoko — research — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
 - [2000pd3rvr/deborah-akuoko-minka-research](https://github.com/2000pd3rvr/deborah-akuoko-minka-research) — Deborah Akuoko Minka — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
-- [2000pd3rvr/deborah-a-minka](https://github.com/2000pd3rvr/deborah-a-minka) — Deborah A. Minka — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
-- [2000pd3rvr/corner_cafe](https://github.com/2000pd3rvr/corner_cafe) — Corner cafe — static site ★2
-- [2000pd3rvr/restaurantSample](https://github.com/2000pd3rvr/restaurantSample) ★1
+- [2000pd3rvr/deborah-akuoko-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-machine-intelligence) — Deborah Akuoko — machine intelligence — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
+- [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko Minka / Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID · HF ★2
+- [2000pd3rvr/deborah-akuoko-minka](https://github.com/2000pd3rvr/deborah-akuoko-minka) — Deborah Akuoko-Minka — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
+- [2000pd3rvr/a-akuoko](https://github.com/2000pd3rvr/a-akuoko) — A. Akuoko — SPAD / machine-intelligence research profile (Edinburgh). Technical researcher — not a commercial-directory listing.
 
 ## Featured projects
 
@@ -254,6 +254,7 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - [0001AMA/crushgame](https://huggingface.co/spaces/0001AMA/crushgame) — Crushgame
 - [0001AMA/auto_object_annotator_0.0.4](https://huggingface.co/spaces/0001AMA/auto_object_annotator_0.0.4) — Auto Object Annotator
 - [0001AMA/PIANDT](https://huggingface.co/spaces/0001AMA/PIANDT) — PIANDT
+- [0001AMA/SMOS](https://huggingface.co/spaces/0001AMA/SMOS)
 - [0001AMA/corner_cafe](https://huggingface.co/spaces/0001AMA/corner_cafe)
 - [0001AMA/PIANDT-thetex](https://huggingface.co/spaces/0001AMA/PIANDT-thetex)
 - [0001AMA/PIANDT-THESIS](https://huggingface.co/spaces/0001AMA/PIANDT-THESIS)
@@ -263,4 +264,4 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - Machine Vision Plus / mvplus: https://huggingface.co/mvplus
 - Cross-link: GitHub ↔ Hugging Face profiles above
 
-_Last refreshed by dailyGit profile SEO on 2026-08-05 (UTC). Research-first layout preserved._
+_Last refreshed by dailyGit profile SEO on 2026-08-06 (UTC). Research-first layout preserved._
