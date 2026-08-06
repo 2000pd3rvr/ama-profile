@@ -1,4 +1,4 @@
-last_seo_boost=2026-08-06T20:08:58Z
+last_seo_boost=2026-08-06T20:10:03Z
 surfaces=name_variant_hubs+ama-profile+profile-hub
 public=true
 purpose=machine-intelligence-outrank-registry-noise
