@@ -1,4 +1,5 @@
-last_seo_boost=2026-08-08T06:50:15Z
-surfaces=name_variant_hubs+ama-profile+profile-hub
+last_seo_boost=2026-08-08T06:51:44Z
+surfaces=huggingface+name_variant_hubs+ama-profile+profile-hub
+prefer=huggingface
 public=true
 purpose=machine-intelligence-outrank-registry-noise
