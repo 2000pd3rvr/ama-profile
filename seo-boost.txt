@@ -1,4 +1,4 @@
-last_seo_boost=2026-08-09T21:11:05Z
+last_seo_boost=2026-08-09T21:12:00Z
 surfaces=huggingface+name_variant_hubs+ama-profile+profile-hub
 prefer=huggingface
 public=true
