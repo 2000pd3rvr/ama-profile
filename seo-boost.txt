@@ -1,5 +1,5 @@
-last_seo_boost=2026-08-10T07:41:05Z
-surfaces=huggingface+name_variant_hubs+ama-profile+profile-hub
-prefer=huggingface
+last_seo_boost=2026-08-10T07:58:12Z
+surfaces=wordpress+huggingface+name_variant_hubs+ama-profile+profile-hub
+prefer=wordpress
 public=true
-purpose=machine-intelligence-outrank-registry-noise
+purpose=wordpress-primary-name-search
