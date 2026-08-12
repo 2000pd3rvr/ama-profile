@@ -233,14 +233,14 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ## Selected GitHub work
 
-- [2000pd3rvr/deborah-akuoko-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-machine-intelligence) — Deborah Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-akuoko-machine-intelligence ★1
-- [2000pd3rvr/deborah-akuoko-minka](https://github.com/2000pd3rvr/deborah-akuoko-minka) — Deborah Akuoko-Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-akuoko-minka ★1
-- [2000pd3rvr/ama-akuoko](https://github.com/2000pd3rvr/ama-akuoko) — Ama Akuoko — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/ama-akuoko ★1
-- [2000pd3rvr/deborah-akuoko-minka-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-minka-machine-intelligence) — Deborah Akuoko-Minka — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-akuoko-minka-machine-intelligence ★1
-- [2000pd3rvr/deborah-ewurama-akuoko](https://github.com/2000pd3rvr/deborah-ewurama-akuoko) — Deborah Ewurama Akuoko — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-ewurama-akuoko ★1
-- [2000pd3rvr/deborah-akuoko-minka-research](https://github.com/2000pd3rvr/deborah-akuoko-minka-research) — Deborah Akuoko Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-akuoko-minka-research ★1
-- [2000pd3rvr/a-akuoko](https://github.com/2000pd3rvr/a-akuoko) — A. Akuoko — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/a-akuoko ★1
+- [2000pd3rvr/a-akuoko-machine-intelligence](https://github.com/2000pd3rvr/a-akuoko-machine-intelligence) — A. Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/a-akuoko-machine-intelligence ★1
 - [2000pd3rvr/deborah-akuoko](https://github.com/2000pd3rvr/deborah-akuoko) — Deborah Akuoko — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-akuoko ★1
+- [2000pd3rvr/deborah-akuoko-minka-research](https://github.com/2000pd3rvr/deborah-akuoko-minka-research) — Deborah Akuoko Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-akuoko-minka-research ★1
+- [2000pd3rvr/deborah-akuoko-minka](https://github.com/2000pd3rvr/deborah-akuoko-minka) — Deborah Akuoko-Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-akuoko-minka ★1
+- [2000pd3rvr/deborah-a-minka-research](https://github.com/2000pd3rvr/deborah-a-minka-research) — Deborah A. Minka — research — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-a-minka-research ★1
+- [2000pd3rvr/ama-akuoko-spad](https://github.com/2000pd3rvr/ama-akuoko-spad) — Ama Akuoko — SPAD sensing — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/ama-akuoko-spad ★1
+- [2000pd3rvr/deborah-a-minka](https://github.com/2000pd3rvr/deborah-a-minka) — Deborah A. Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-a-minka ★1
+- [2000pd3rvr/ama-akuoko-machine-intelligence](https://github.com/2000pd3rvr/ama-akuoko-machine-intelligence) — Ama Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/ama-akuoko-machine-intelligence ★1
 
 ## Featured projects
 
@@ -265,4 +265,4 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - Machine Vision Plus / mvplus: https://huggingface.co/mvplus
 - Cross-link: GitHub ↔ Hugging Face profiles above
 
-_Last refreshed by dailyGit profile SEO on 2026-08-11 (UTC). Research-first layout preserved._
+_Last refreshed by dailyGit profile SEO on 2026-08-12 (UTC). Research-first layout preserved._
