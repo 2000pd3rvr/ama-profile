@@ -39,7 +39,7 @@ These URLs are the same person across name variants:
 - Deborah A. Minka
 - Deborah E. M. Akuoko
 
-_Refreshed 2026-08-11T09:15:05Z by dailyGit search-rank watch (research-first)._
+_Refreshed 2026-08-12T04:14:40Z by dailyGit search-rank watch (research-first)._
 
 ## Research outputs (appear first)
 
@@ -882,7 +882,6 @@ Each name below is the **same person**. **List first:** ORCID public profile htt
 - **GitHub repo:** https://github.com/2000pd3rvr/restaurantSample
 - **GitHub repo:** https://github.com/2000pd3rvr/signal_detection_model
 - **GitHub repo:** https://github.com/2000pd3rvr/spad_for_vision_space
-- **GitHub repo:** https://github.com/2000pd3rvr/zz-delete-me-online-presence-org-test
 
 ## Hf Profile
 - **HF profile:** https://huggingface.co/PIANDT
