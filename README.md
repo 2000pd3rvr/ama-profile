@@ -233,14 +233,14 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 ## Selected GitHub work
 
-- [2000pd3rvr/a-akuoko-machine-intelligence](https://github.com/2000pd3rvr/a-akuoko-machine-intelligence) — A. Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/a-akuoko-machine-intelligence ★1
-- [2000pd3rvr/deborah-akuoko](https://github.com/2000pd3rvr/deborah-akuoko) — Deborah Akuoko — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-akuoko ★1
-- [2000pd3rvr/deborah-akuoko-minka-research](https://github.com/2000pd3rvr/deborah-akuoko-minka-research) — Deborah Akuoko Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-akuoko-minka-research ★1
 - [2000pd3rvr/deborah-akuoko-minka](https://github.com/2000pd3rvr/deborah-akuoko-minka) — Deborah Akuoko-Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-akuoko-minka ★1
-- [2000pd3rvr/deborah-a-minka-research](https://github.com/2000pd3rvr/deborah-a-minka-research) — Deborah A. Minka — research — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-a-minka-research ★1
-- [2000pd3rvr/ama-akuoko-spad](https://github.com/2000pd3rvr/ama-akuoko-spad) — Ama Akuoko — SPAD sensing — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/ama-akuoko-spad ★1
-- [2000pd3rvr/deborah-a-minka](https://github.com/2000pd3rvr/deborah-a-minka) — Deborah A. Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-a-minka ★1
-- [2000pd3rvr/ama-akuoko-machine-intelligence](https://github.com/2000pd3rvr/ama-akuoko-machine-intelligence) — Ama Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/ama-akuoko-machine-intelligence ★1
+- [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko Minka / Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID · HF ★2
+- [2000pd3rvr/spad_for_vision_space](https://github.com/2000pd3rvr/spad_for_vision_space) — SPAD (single-photon avalanche diode) vision demos and experiments as a public space. ★3
+- [2000pd3rvr/2000pd3rvr](https://github.com/2000pd3rvr/2000pd3rvr) — GitHub profile README — computer vision researcher (Edinburgh / Machine Vision Plus). ★1
+- [2000pd3rvr/crushgame](https://github.com/2000pd3rvr/crushgame) — Interactive crushgame demo (vision / UI experiment). ★2
+- [2000pd3rvr/appVideoDemos](https://github.com/2000pd3rvr/appVideoDemos) — Short computer-vision app demos and video walkthroughs. ★2
+- [2000pd3rvr/signal_detection_model](https://github.com/2000pd3rvr/signal_detection_model) — Signal / event detection models for computer vision pipelines (research + demos). ★3
+- [2000pd3rvr/auto_object_annotator_0.0.4](https://github.com/2000pd3rvr/auto_object_annotator_0.0.4) — Automatic object annotation for vision datasets — observe, label, and iterate without heavy tooling. ★2
 
 ## Featured projects
 
@@ -265,4 +265,4 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - Machine Vision Plus / mvplus: https://huggingface.co/mvplus
 - Cross-link: GitHub ↔ Hugging Face profiles above
 
-_Last refreshed by dailyGit profile SEO on 2026-08-12 (UTC). Research-first layout preserved._
+_Last refreshed by dailyGit profile SEO on 2026-08-13 (UTC). Research-first layout preserved._
