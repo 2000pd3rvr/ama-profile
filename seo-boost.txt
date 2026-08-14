@@ -1,4 +1,4 @@
-last_seo_boost=2026-08-13T20:13:56Z
+last_seo_boost=2026-08-14T20:17:03Z
 surfaces=wordpress+huggingface+name_variant_hubs+ama-profile+profile-hub
 prefer=wordpress
 public=true
