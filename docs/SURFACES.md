@@ -4,7 +4,7 @@
 
 These public GitHub, GitHub Pages, and Hugging Face URLs document the research and engineering identity associated with this name.
 
-_Refreshed 2026-08-14T20:17:03Z · 15 hubs × 3 platforms = 45 crawl surfaces_
+_Refreshed 2026-08-15T20:18:33Z · 15 hubs × 3 platforms = 45 crawl surfaces_
 
 | Name | GitHub | Pages | Hugging Face |
 | --- | --- | --- | --- |
