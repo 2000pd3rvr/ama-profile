@@ -268,4 +268,4 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - Machine Vision Plus / mvplus: https://huggingface.co/mvplus
 - Cross-link: GitHub ↔ Hugging Face profiles above
 
-_Last refreshed by dailyGit profile SEO on 2026-08-15 (UTC). Research-first layout preserved._
+_Last refreshed by dailyGit profile SEO on 2026-08-16 (UTC). Research-first layout preserved._
