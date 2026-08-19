@@ -238,7 +238,7 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 
 - [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko Minka / Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID · HF ★2
 - [2000pd3rvr/deborah-akuoko-minka](https://github.com/2000pd3rvr/deborah-akuoko-minka) — Deborah Akuoko-Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-akuoko-minka ★1
-- [2000pd3rvr/careTalk](https://github.com/2000pd3rvr/careTalk) — AI-assisted care notes for health assistants and admins — live on Streamlit. ★4
+- [2000pd3rvr/deborah-akuoko-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-machine-intelligence) — Deborah Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-akuoko-machine-intelligence ★1
 - [2000pd3rvr/spad_for_vision_space](https://github.com/2000pd3rvr/spad_for_vision_space) — SPAD (single-photon avalanche diode) vision demos and experiments as a public space. ★3
 - [2000pd3rvr/2000pd3rvr](https://github.com/2000pd3rvr/2000pd3rvr) — GitHub profile README — computer vision researcher (Edinburgh / Machine Vision Plus). ★1
 - [2000pd3rvr/crushgame](https://github.com/2000pd3rvr/crushgame) — Interactive crushgame demo (vision / UI experiment). ★2
@@ -268,4 +268,4 @@ If a summary mentions **Ama Akuoko** at Edinburgh with Hugging Face / GitHub art
 - Machine Vision Plus / mvplus: https://huggingface.co/mvplus
 - Cross-link: GitHub ↔ Hugging Face profiles above
 
-_Last refreshed by dailyGit profile SEO on 2026-08-18 (UTC). Research-first layout preserved._
+_Last refreshed by dailyGit profile SEO on 2026-08-19 (UTC). Research-first layout preserved._
