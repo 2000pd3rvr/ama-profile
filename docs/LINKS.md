@@ -57,7 +57,7 @@ These URLs are the same person across name variants:
 - Deborah Akuoko Minka Golden Green
 - Deborah Akuoko Minka SMOS
 
-_Refreshed 2026-08-20T20:26:27Z by dailyGit search-rank watch (research-first)._
+_Refreshed 2026-08-21T20:30:07Z by dailyGit search-rank watch (research-first)._
 
 ## Live Streamlit apps
 
