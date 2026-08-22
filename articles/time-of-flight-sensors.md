@@ -1,8 +1,6 @@
 # Time-of-Flight Sensors: A Simple Guide
 
 **Author:** Deborah Akuoko Minka  
-**Published:** 2026-08-22  
-**Related demo:** [SPAD for Vision — Hugging Face Space](https://huggingface.co/spaces/mvplus/spad_for_vision)  
 **Primary profile:** [deborahakuokominka.wordpress.com](https://deborahakuokominka.wordpress.com/)
 
 ---
