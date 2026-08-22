@@ -148,14 +148,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 
 ## Selected GitHub work
 
-- [2000pd3rvr/spad_for_vision_space](https://github.com/2000pd3rvr/spad_for_vision_space) — SPAD (single-photon avalanche diode) vision demos and experiments as a public space. ★3
-- [2000pd3rvr/2000pd3rvr](https://github.com/2000pd3rvr/2000pd3rvr) — GitHub profile README — signal processing researcher (Edinburgh / Machine Vision Plus). ★1
-- [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko Minka / Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID ★2
-- [2000pd3rvr/crushgame](https://github.com/2000pd3rvr/crushgame) — Interactive crushgame demo (vision / UI experiment). ★2
-- [2000pd3rvr/appVideoDemos](https://github.com/2000pd3rvr/appVideoDemos) — Short computer-vision app demos and video walkthroughs. ★2
-- [2000pd3rvr/SMOS](https://github.com/2000pd3rvr/SMOS) — SMOS — live on Streamlit. ★2
-- [2000pd3rvr/corner_cafe](https://github.com/2000pd3rvr/corner_cafe) — Corner Cafe hospitality site — live on Streamlit. ★4
-- [2000pd3rvr/GoldenGreenFC](https://github.com/2000pd3rvr/GoldenGreenFC) — Golden Green Sporting Club public site — live on Streamlit. ★3
+- _(repos will appear as they are published)_
 
 ## Featured projects
 
