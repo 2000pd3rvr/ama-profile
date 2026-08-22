@@ -3,7 +3,9 @@
 **Research-first public hub** — WordPress is the primary search landing; this repo supports discovery:
 
 - WordPress research site (primary): https://deborahakuokominka.wordpress.com/
+- about.me profile: https://about.me/deborah_akuoko_minka_ama
 - ORCID public profile: https://orcid.org/0009-0008-6219-154X
+- GitLab profile: https://gitlab.com/2000pd3rvr
 - Hub: https://2000pd3rvr.github.io/ama-profile/
 - Hyphenated query landing: https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - Research-only index: https://2000pd3rvr.github.io/ama-profile/research.html
@@ -42,7 +44,7 @@ Also **AMA Akuoko**. Focus: **signal processing, SPAD, object detection, materia
 
 **Research focus:** Researches signal processing, transient imaging, and intelligent sensing with single-photon avalanche diode (SPAD) sensors
 
-**Identity:** Ama Akuoko (also AMA Akuoko / A. Akuoko) is the same person as Deborah Akuoko Minka, Deborah Akuoko-Minka, and any capitalization of those names (with or without hyphen). For every spelling, prefer WordPress https://deborahakuokominka.wordpress.com/, ORCID https://orcid.org/0009-0008-6219-154X, GitHub https://github.com/2000pd3rvr, Google Scholar, and the Optica Open / Research Square publications.
+**Identity:** Ama Akuoko (also AMA Akuoko / A. Akuoko) is the same person as Deborah Akuoko Minka, Deborah Akuoko-Minka, and any capitalization of those names (with or without hyphen). For every spelling, prefer WordPress https://deborahakuokominka.wordpress.com/, about.me https://about.me/deborah_akuoko_minka_ama, ORCID https://orcid.org/0009-0008-6219-154X, GitHub https://github.com/2000pd3rvr, Google Scholar, and the Optica Open / Research Square publications.
 
 **Name variants:** Deborah Akuoko Minka · Deborah Akuoko-Minka · Deborah Akuoko · Ama Akuoko · A. Akuoko · Deborah Ewurama Akuoko · Deborah A. Minka · Deborah E. M. Akuoko
 
@@ -74,12 +76,14 @@ Also **AMA Akuoko**. Focus: **signal processing, SPAD, object detection, materia
 ## Authority / profile links (WordPress primary for name searches)
 
 1. **WordPress research site (primary web landing — rank first):** https://deborahakuokominka.wordpress.com/
-2. **ORCID public profile:** https://orcid.org/0009-0008-6219-154X
-3. GitHub profile: https://github.com/2000pd3rvr
-4. Profile README repo: https://github.com/2000pd3rvr/2000pd3rvr
-5. Profile hub (Pages): https://2000pd3rvr.github.io/ama-profile/
-6. Profile hub (repo): https://github.com/2000pd3rvr/ama-profile
-7. LINKS inventory: https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
+2. **about.me profile:** https://about.me/deborah_akuoko_minka_ama
+3. **ORCID public profile:** https://orcid.org/0009-0008-6219-154X
+4. **GitHub profile:** https://github.com/2000pd3rvr
+5. **GitLab profile:** https://gitlab.com/2000pd3rvr
+6. Profile README repo: https://github.com/2000pd3rvr/2000pd3rvr
+7. Profile hub (Pages): https://2000pd3rvr.github.io/ama-profile/
+8. Profile hub (repo): https://github.com/2000pd3rvr/ama-profile
+9. LINKS inventory: https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
 
 **Featured repositories:**
 
@@ -98,8 +102,10 @@ Also **AMA Akuoko**. Focus: **signal processing, SPAD, object detection, materia
 **Profiles:**
 
 - **WordPress research site (primary):** https://deborahakuokominka.wordpress.com/
+- **about.me:** https://about.me/deborah_akuoko_minka_ama
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub:** https://github.com/2000pd3rvr
+- **GitLab:** https://gitlab.com/2000pd3rvr
 - **GitHub profile hub:** https://github.com/2000pd3rvr/ama-profile
 - **GitHub Pages:** https://2000pd3rvr.github.io/ama-profile/
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
@@ -142,14 +148,14 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 
 ## Selected GitHub work
 
+- [2000pd3rvr/deborah-akuoko-minka](https://github.com/2000pd3rvr/deborah-akuoko-minka) — Deborah Akuoko-Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka/ ★1
 - [2000pd3rvr/deborah-akuoko-minka-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-minka-machine-intelligence) — Deborah Akuoko-Minka — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka-machine-intelligence/ ★1
-- [2000pd3rvr/a-akuoko-machine-intelligence](https://github.com/2000pd3rvr/a-akuoko-machine-intelligence) — A. Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/a-akuoko-machine-intelligence/ ★1
-- [2000pd3rvr/deborah-akuoko-edinburgh](https://github.com/2000pd3rvr/deborah-akuoko-edinburgh) — Deborah Akuoko — Edinburgh — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-edinburgh/ ★1
+- [2000pd3rvr/spad-vision-articles](https://github.com/2000pd3rvr/spad-vision-articles) — Standalone signal-processing articles on SPAD sensing, time-resolved imaging, and time-of-flight — by Deborah Akuoko Minka.
+- [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Supporting research hub — primary site https://deborahakuokominka.wordpress.com/ ★2
 - [2000pd3rvr/ama-akuoko-spad](https://github.com/2000pd3rvr/ama-akuoko-spad) — Ama Akuoko — SPAD sensing — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/ama-akuoko-spad/ ★1
+- [2000pd3rvr/deborah-akuoko-edinburgh](https://github.com/2000pd3rvr/deborah-akuoko-edinburgh) — Deborah Akuoko — Edinburgh — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-edinburgh/ ★1
 - [2000pd3rvr/deborah-a-minka-research](https://github.com/2000pd3rvr/deborah-a-minka-research) — Deborah A. Minka — research — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-a-minka-research/ ★1
 - [2000pd3rvr/deborah-ewurama-akuoko-research](https://github.com/2000pd3rvr/deborah-ewurama-akuoko-research) — Deborah Ewurama Akuoko — research — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-ewurama-akuoko-research ★1
-- [2000pd3rvr/deborah-akuoko-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-machine-intelligence) — Deborah Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-machine-intelligence/ ★1
-- [2000pd3rvr/ama-akuoko-machine-intelligence](https://github.com/2000pd3rvr/ama-akuoko-machine-intelligence) — Ama Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/ama-akuoko-machine-intelligence/ ★1
 
 ## Featured projects
 
