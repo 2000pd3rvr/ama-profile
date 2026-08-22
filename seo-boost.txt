@@ -1,5 +1,0 @@
-last_seo_boost=2026-08-21T20:30:57Z
-surfaces=wordpress+huggingface+name_variant_hubs+ama-profile+profile-hub
-prefer=wordpress
-public=true
-purpose=wordpress-primary-name-search
