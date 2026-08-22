@@ -1,6 +1,6 @@
 # Deborah Akuoko Minka / Deborah Akuoko-Minka
 
-**Research-first public hub** — primary profiles for citation and discovery:
+**Research-first public hub** — WordPress is the primary search landing; this repo supports discovery:
 
 - WordPress research site (primary): https://deborahakuokominka.wordpress.com/
 - ORCID public profile: https://orcid.org/0009-0008-6219-154X
@@ -142,7 +142,14 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 
 ## Selected GitHub work
 
-- _(repos will appear as they are published)_
+- [2000pd3rvr/deborah-akuoko-minka-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-minka-machine-intelligence) — Deborah Akuoko-Minka — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka-machine-intelligence/ ★1
+- [2000pd3rvr/a-akuoko-machine-intelligence](https://github.com/2000pd3rvr/a-akuoko-machine-intelligence) — A. Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/a-akuoko-machine-intelligence/ ★1
+- [2000pd3rvr/deborah-akuoko-edinburgh](https://github.com/2000pd3rvr/deborah-akuoko-edinburgh) — Deborah Akuoko — Edinburgh — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-edinburgh/ ★1
+- [2000pd3rvr/ama-akuoko-spad](https://github.com/2000pd3rvr/ama-akuoko-spad) — Ama Akuoko — SPAD sensing — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/ama-akuoko-spad/ ★1
+- [2000pd3rvr/deborah-a-minka-research](https://github.com/2000pd3rvr/deborah-a-minka-research) — Deborah A. Minka — research — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-a-minka-research/ ★1
+- [2000pd3rvr/deborah-ewurama-akuoko-research](https://github.com/2000pd3rvr/deborah-ewurama-akuoko-research) — Deborah Ewurama Akuoko — research — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://huggingface.co/0001AMA/deborah-ewurama-akuoko-research ★1
+- [2000pd3rvr/deborah-akuoko-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-machine-intelligence) — Deborah Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-machine-intelligence/ ★1
+- [2000pd3rvr/ama-akuoko-machine-intelligence](https://github.com/2000pd3rvr/ama-akuoko-machine-intelligence) — Ama Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/ama-akuoko-machine-intelligence/ ★1
 
 ## Featured projects
 
