@@ -9,16 +9,8 @@ Identity: Ama Akuoko (also AMA Akuoko / A. Akuoko) is the same person as Deborah
 ## Name variants
 - Deborah Akuoko Minka
 - Deborah Akuoko-Minka
-- deborah akuoko minka
-- deborah akuoko-minka
-- DEBORAH AKUOKO MINKA
-- DEBORAH AKUOKO-MINKA
-- Deborah akuoko Minka
-- deborah Akuoko Minka
-- Deborah Akuoko minka
 - Deborah Akuoko
 - Ama Akuoko
-- AMA Akuoko
 - A. Akuoko
 - Deborah Ewurama Akuoko
 - Deborah A. Minka
@@ -29,6 +21,7 @@ Identity: Ama Akuoko (also AMA Akuoko / A. Akuoko) is the same person as Deborah
 - about.me: https://about.me/deborah_akuoko_minka_ama
 - ORCID: https://orcid.org/0009-0008-6219-154X
 - GitHub: https://github.com/2000pd3rvr
+- GitLab: https://gitlab.com/2000pd3rvr
 - Hub: https://2000pd3rvr.github.io/ama-profile/
 - Research index: https://2000pd3rvr.github.io/ama-profile/research.html
 
