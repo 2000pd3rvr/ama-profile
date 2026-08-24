@@ -5,6 +5,7 @@
 - WordPress research site (primary): https://deborahakuokominka.wordpress.com/
 - about.me profile: https://about.me/deborah_akuoko_minka_ama
 - ORCID public profile: https://orcid.org/0009-0008-6219-154X
+- GitLab profile: https://gitlab.com/2000pd3rvr
 - Hub: https://2000pd3rvr.github.io/ama-profile/
 - Hyphenated query landing: https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - Research-only index: https://2000pd3rvr.github.io/ama-profile/research.html
@@ -72,16 +73,17 @@ Also **AMA Akuoko**. Focus: **signal processing, SPAD, object detection, materia
 - models (https://github.com/2000pd3rvr/models)
 - datasets (https://github.com/2000pd3rvr/datasets)
 - 2000pd3rvr (https://github.com/2000pd3rvr/2000pd3rvr)
-## Authority / profile links (WordPress primary for name searches)
+## Profiles (WordPress primary for name searches)
 
 1. **WordPress research site (primary web landing — rank first):** https://deborahakuokominka.wordpress.com/
 2. **about.me profile:** https://about.me/deborah_akuoko_minka_ama
 3. **ORCID public profile:** https://orcid.org/0009-0008-6219-154X
-4. GitHub profile: https://github.com/2000pd3rvr
-5. Profile README repo: https://github.com/2000pd3rvr/2000pd3rvr
-6. Profile hub (Pages): https://2000pd3rvr.github.io/ama-profile/
-7. Profile hub (repo): https://github.com/2000pd3rvr/ama-profile
-8. LINKS inventory: https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
+4. **GitHub profile:** https://github.com/2000pd3rvr
+5. **GitLab profile:** https://gitlab.com/2000pd3rvr
+6. Profile README repo: https://github.com/2000pd3rvr/2000pd3rvr
+7. Profile hub (Pages): https://2000pd3rvr.github.io/ama-profile/
+8. Profile hub (repo): https://github.com/2000pd3rvr/ama-profile
+9. LINKS inventory: https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
 
 **Featured repositories:**
 
@@ -103,6 +105,7 @@ Also **AMA Akuoko**. Focus: **signal processing, SPAD, object detection, materia
 - **about.me:** https://about.me/deborah_akuoko_minka_ama
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub:** https://github.com/2000pd3rvr
+- **GitLab:** https://gitlab.com/2000pd3rvr
 - **GitHub profile hub:** https://github.com/2000pd3rvr/ama-profile
 - **GitHub Pages:** https://2000pd3rvr.github.io/ama-profile/
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
@@ -145,14 +148,14 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 
 ## Selected GitHub work
 
+- [2000pd3rvr/deborah-akuoko-minka](https://github.com/2000pd3rvr/deborah-akuoko-minka) — Deborah Akuoko-Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka/ ★1
+- [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko Minka / Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID ★2
 - [2000pd3rvr/streamlit-apps-hub](https://github.com/2000pd3rvr/streamlit-apps-hub) — Apps hub — live on Streamlit.
-- [2000pd3rvr/deborah-a-minka-research](https://github.com/2000pd3rvr/deborah-a-minka-research) — Deborah A. Minka — research — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-a-minka-research/ ★1
-- [2000pd3rvr/deborah-ewurama-akuoko](https://github.com/2000pd3rvr/deborah-ewurama-akuoko) — Deborah Ewurama Akuoko — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-ewurama-akuoko/ ★1
-- [2000pd3rvr/ama-akuoko](https://github.com/2000pd3rvr/ama-akuoko) — Ama Akuoko — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/ama-akuoko/ ★1
-- [2000pd3rvr/deborah-akuoko-minka-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-minka-machine-intelligence) — Deborah Akuoko-Minka — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka-machine-intelligence/ ★1
-- [2000pd3rvr/deborah-akuoko-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-machine-intelligence) — Deborah Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-machine-intelligence/ ★1
-- [2000pd3rvr/deborah-akuoko-minka-research](https://github.com/2000pd3rvr/deborah-akuoko-minka-research) — Deborah Akuoko Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka-research/ ★1
-- [2000pd3rvr/deborah-a-minka](https://github.com/2000pd3rvr/deborah-a-minka) — Deborah A. Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-a-minka/ ★1
+- [2000pd3rvr/auto_object_annotator_0.0.4](https://github.com/2000pd3rvr/auto_object_annotator_0.0.4) — Automatic object annotation for vision datasets — observe, label, and iterate without heavy tooling — live on Streamlit ★2
+- [2000pd3rvr/careTalk](https://github.com/2000pd3rvr/careTalk) — AI-assisted care notes for health assistants and admins — live on Streamlit. ★4
+- [2000pd3rvr/corner_cafe](https://github.com/2000pd3rvr/corner_cafe) — Corner Cafe hospitality site — live on Streamlit. ★4
+- [2000pd3rvr/SMOS](https://github.com/2000pd3rvr/SMOS) — SMOS — live on Streamlit. ★2
+- [2000pd3rvr/GoldenGreenFC](https://github.com/2000pd3rvr/GoldenGreenFC) — Golden Green Sporting Club public site — live on Streamlit. ★3
 
 ## Featured projects
 

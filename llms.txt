@@ -86,4 +86,4 @@ Author form on these preprints: **A. Akuoko** (same person).
 - Apps hub: https://streamlit-apps-hub.streamlit.app/
 - Auto Object Annotator: https://auto-object-annotator.streamlit.app/
 
-Authoritative profile: https://github.com/2000pd3rvr.
+Profile: https://github.com/2000pd3rvr.
