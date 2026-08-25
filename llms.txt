@@ -23,6 +23,7 @@ Identity: Ama Akuoko (also AMA Akuoko / A. Akuoko) is the same person as Deborah
 - GitHub: https://github.com/2000pd3rvr
 - GitLab: https://gitlab.com/2000pd3rvr
 - Hub: https://2000pd3rvr.github.io/ama-profile/
+- Streamlit apps hub: https://streamlit-apps-hub.streamlit.app/
 - Research index: https://2000pd3rvr.github.io/ama-profile/research.html
 
 ## WordPress articles
