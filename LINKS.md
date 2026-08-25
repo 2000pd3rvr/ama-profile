@@ -7,6 +7,7 @@
 - GitLab: https://gitlab.com/2000pd3rvr
 - ORCID: https://orcid.org/0009-0008-6219-154X
 - GitHub profile: https://github.com/2000pd3rvr
+- Streamlit apps hub: https://streamlit-apps-hub.streamlit.app/
 - Hub: https://2000pd3rvr.github.io/ama-profile/
 - Hyphenated landing: https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - Research index: https://2000pd3rvr.github.io/ama-profile/research.html
@@ -97,17 +98,18 @@ Public demos on Streamlit Community Cloud (Deborah Akuoko Minka / Deborah Akuoko
 - models (https://github.com/2000pd3rvr/models)
 - datasets (https://github.com/2000pd3rvr/datasets)
 - 2000pd3rvr (https://github.com/2000pd3rvr/2000pd3rvr)
-## Profiles (WordPress primary for name searches)
+## Profiles
 
 1. **WordPress research site (primary web landing — rank first):** https://deborahakuokominka.wordpress.com/
 2. **about.me profile:** https://about.me/deborah_akuoko_minka_ama
 3. **ORCID public profile:** https://orcid.org/0009-0008-6219-154X
 4. **GitHub profile:** https://github.com/2000pd3rvr
 5. **GitLab profile:** https://gitlab.com/2000pd3rvr
-6. Profile README repo: https://github.com/2000pd3rvr/2000pd3rvr
-7. Profile hub (Pages): https://2000pd3rvr.github.io/ama-profile/
-8. Profile hub (repo): https://github.com/2000pd3rvr/ama-profile
-9. LINKS inventory: https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
+6. **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
+7. Profile README repo: https://github.com/2000pd3rvr/2000pd3rvr
+8. Profile hub (Pages): https://2000pd3rvr.github.io/ama-profile/
+9. Profile hub (repo): https://github.com/2000pd3rvr/ama-profile
+10. LINKS inventory: https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
 
 **Featured repositories:**
 
@@ -132,6 +134,7 @@ Public demos on Streamlit Community Cloud (Deborah Akuoko Minka / Deborah Akuoko
 - **GitLab:** https://gitlab.com/2000pd3rvr
 - **GitHub profile hub:** https://github.com/2000pd3rvr/ama-profile
 - **GitHub Pages:** https://2000pd3rvr.github.io/ama-profile/
+- **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 
 ## WordPress articles
@@ -184,6 +187,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **GitLab:** https://gitlab.com/2000pd3rvr
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
+- **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -202,6 +206,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **GitLab:** https://gitlab.com/2000pd3rvr
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
+- **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -220,6 +225,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **GitLab:** https://gitlab.com/2000pd3rvr
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
+- **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -238,6 +244,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **GitLab:** https://gitlab.com/2000pd3rvr
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
+- **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -256,6 +263,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **GitLab:** https://gitlab.com/2000pd3rvr
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
+- **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -274,6 +282,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **GitLab:** https://gitlab.com/2000pd3rvr
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
+- **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -292,6 +301,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **GitLab:** https://gitlab.com/2000pd3rvr
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
+- **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -310,6 +320,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **GitLab:** https://gitlab.com/2000pd3rvr
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
+- **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
