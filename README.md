@@ -157,14 +157,14 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 
 ## Selected GitHub work
 
-- [2000pd3rvr/deborah-ewurama-akuoko-research](https://github.com/2000pd3rvr/deborah-ewurama-akuoko-research) — Deborah Ewurama Akuoko — research — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-ewurama-akuoko-research/ ★1
-- [2000pd3rvr/a-akuoko-machine-intelligence](https://github.com/2000pd3rvr/a-akuoko-machine-intelligence) — A. Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/a-akuoko-machine-intelligence/ ★1
-- [2000pd3rvr/ama-akuoko-machine-intelligence](https://github.com/2000pd3rvr/ama-akuoko-machine-intelligence) — Ama Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/ama-akuoko-machine-intelligence/ ★1
-- [2000pd3rvr/deborah-akuoko-minka-research](https://github.com/2000pd3rvr/deborah-akuoko-minka-research) — Deborah Akuoko Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka-research/ ★1
-- [2000pd3rvr/deborah-akuoko-machine-intelligence](https://github.com/2000pd3rvr/deborah-akuoko-machine-intelligence) — Deborah Akuoko — machine intelligence — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-machine-intelligence/ ★1
-- [2000pd3rvr/deborah-a-minka](https://github.com/2000pd3rvr/deborah-a-minka) — Deborah A. Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-a-minka/ ★1
-- [2000pd3rvr/deborah-akuoko-minka](https://github.com/2000pd3rvr/deborah-akuoko-minka) — Deborah Akuoko-Minka — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka/ ★1
-- [2000pd3rvr/a-akuoko](https://github.com/2000pd3rvr/a-akuoko) — A. Akuoko — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/a-akuoko/ ★1
+- [2000pd3rvr/spad_for_vision_space](https://github.com/2000pd3rvr/spad_for_vision_space) — SPAD (single-photon avalanche diode) vision demos and experiments as a public space. ★3
+- [2000pd3rvr/ama-akuoko-spad](https://github.com/2000pd3rvr/ama-akuoko-spad) — Ama Akuoko — SPAD sensing — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/ama-akuoko-spad/ ★1
+- [2000pd3rvr/2000pd3rvr](https://github.com/2000pd3rvr/2000pd3rvr) — GitHub profile README — signal processing researcher (Edinburgh / Machine Vision Plus). ★1
+- [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko Minka / Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID ★2
+- [2000pd3rvr/deborah-akuoko-edinburgh](https://github.com/2000pd3rvr/deborah-akuoko-edinburgh) — Deborah Akuoko — Edinburgh — SPAD and machine-intelligence research (University of Edinburgh). Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-edinburgh/ ★1
+- [2000pd3rvr/crushgame](https://github.com/2000pd3rvr/crushgame) — Interactive crushgame demo (vision / UI experiment). ★2
+- [2000pd3rvr/appVideoDemos](https://github.com/2000pd3rvr/appVideoDemos) — Short computer-vision app demos and video walkthroughs. ★2
+- [2000pd3rvr/signal_detection_model](https://github.com/2000pd3rvr/signal_detection_model) — Signal / event detection models for computer vision pipelines (research + demos). ★3
 
 ## Featured projects
 
