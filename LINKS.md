@@ -63,7 +63,7 @@ Public demos on Render (8 apps — more than Streamlit). Includes crushgame, SPA
 - **Spatial vs. time-resolved images:** https://deborahakuokominka.wordpress.com/2026/08/22/spatial-vs-time-resolved-images-2/
 - **Time-of-flight sensors guide:** https://deborahakuokominka.wordpress.com/2026/08/22/time-of-flight-sensors-guide/
 
-## Research outputs (appear first)
+## Preprints and peer-reviewed manuscripts
 
 - **Optica Open (A. Akuoko):** [PAWD — signal processing across sensing modalities](https://doi.org/10.1364/opticaopen.31956108)
 - **Optica Open (A. Akuoko):** [Non-spectral time-resolved SPAD material classification](https://doi.org/10.1364/opticaopen.31957221)
@@ -78,7 +78,7 @@ Public demos on Render (8 apps — more than Streamlit). Includes crushgame, SPA
 
 **Research focus:** Researches signal processing, transient imaging, and intelligent sensing with single-photon avalanche diode (SPAD) sensors
 
-## Peer-reviewed manuscripts
+## Preprints and peer-reviewed manuscripts
 
 **Optica Open (author: A. Akuoko — same person)**
 
