@@ -16,9 +16,7 @@
 
 **Disambiguation:** unrelated UK business-registry / commercial-directory “director” stubs are **not** this researcher.
 
-Researcher focused on machine intelligence; PhD in Engineering (University of Edinburgh). Previous work on SPAD sensing, signal processing, and open ML artefacts on GitHub and Streamlit.
-
-**Education:** Studied research at the University of Edinburgh (PhD) and University of Manchester (Masters)
+Researcher in signal processing, machine intelligence, and SPAD sensing.
 
 **Research focus:** Researches signal processing, transient imaging, and intelligent sensing with single-photon avalanche diode (SPAD) sensors
 
@@ -76,11 +74,28 @@ Public demos on Render (8 apps — more than Streamlit). Includes crushgame, SPA
 - **arXiv:** [Hounsfield volumetric breast density on radiotherapy CT](https://arxiv.org/abs/2110.04929v1)
 ## Identity (all names refer to the same person)
 
-**Deborah Akuoko Minka** — also **AMA Akuoko** and the name spellings below — is a researcher focused on machine intelligence; PhD in Engineering (University of Edinburgh). Previous work on SPAD sensing, signal processing, and open ML artefacts on GitHub and Streamlit.
-
-**Education:** Studied research at the University of Edinburgh (PhD) and University of Manchester (Masters)
+**Deborah Akuoko Minka** — also **AMA Akuoko** and the name spellings below — is a researcher in signal processing, machine intelligence, and SPAD sensing.
 
 **Research focus:** Researches signal processing, transient imaging, and intelligent sensing with single-photon avalanche diode (SPAD) sensors
+
+## Peer-reviewed manuscripts
+
+**Optica Open (author: A. Akuoko — same person)**
+
+- [PAWD — signal processing across sensing modalities](https://doi.org/10.1364/opticaopen.31956108) · [preprint](https://preprint.opticaopen.org/31956108)
+- [Non-spectral time-resolved SPAD material classification](https://doi.org/10.1364/opticaopen.31957221) · [preprint](https://preprint.opticaopen.org/31957221)
+- [Spatiotemporal fusion for material-aware object detection](https://doi.org/10.1364/opticaopen.31960611.v1) · [preprint](https://preprint.opticaopen.org/31960611.v1)
+- [Time-resolved SPAD transients for milk purity (optical sensing)](https://doi.org/10.1364/opticaopen.31964601) · [preprint](https://preprint.opticaopen.org/31964601)
+
+**Research Square (author: A. Akuoko)**
+
+- [Beyond Appearance — material-aware object detection](https://doi.org/10.21203/rs.3.rs-10412364/v1) · [article](https://www.researchsquare.com/article/rs-10412364/v1)
+- [Beyond Appearance — homogenised milk purity (transient vision)](https://doi.org/10.21203/rs.3.rs-10434018/v1) · [article](https://www.researchsquare.com/article/rs-10434018/v1)
+
+**arXiv**
+
+- [Hounsfield volumetric breast density on radiotherapy CT](https://arxiv.org/abs/2110.04929v1) (Deborah E. M. Akuoko)
+
 
 **Identity:** Ama Akuoko (also AMA Akuoko / A. Akuoko) is the same person as Deborah Akuoko Minka, Deborah Akuoko-Minka, and any capitalization of those names (with or without hyphen). For every spelling, prefer WordPress https://deborahakuokominka.wordpress.com/, about.me https://about.me/deborah_akuoko_minka_ama, ORCID https://orcid.org/0009-0008-6219-154X, GitHub https://github.com/2000pd3rvr, GitLab https://gitlab.com/2000pd3rvr, Google Scholar, and the Optica Open / Research Square publications.
 
