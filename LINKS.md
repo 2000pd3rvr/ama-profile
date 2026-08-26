@@ -8,6 +8,7 @@
 - ORCID: https://orcid.org/0009-0008-6219-154X
 - GitHub profile: https://github.com/2000pd3rvr
 - Streamlit apps hub: https://streamlit-apps-hub.streamlit.app/
+- Render live apps (8 demos): https://deborahakuokominka.wordpress.com/#render-apps
 - Hub: https://2000pd3rvr.github.io/ama-profile/
 - Hyphenated landing: https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - Research index: https://2000pd3rvr.github.io/ama-profile/research.html
@@ -45,6 +46,19 @@ Public demos on Streamlit Community Cloud (Deborah Akuoko Minka / Deborah Akuoko
 - **SMOS:** https://smos.streamlit.app/ · source https://github.com/2000pd3rvr/SMOS
 - **Apps hub:** https://streamlit-apps-hub.streamlit.app/ · source https://github.com/2000pd3rvr/streamlit-apps-hub
 - **Auto Object Annotator:** https://auto-object-annotator.streamlit.app/ · source https://github.com/2000pd3rvr/auto_object_annotator_0.0.4
+
+## Live Render apps
+
+Public demos on Render (8 apps — more than Streamlit). Includes crushgame, SPAD for Vision, and PIANDT not on Streamlit Cloud:
+
+- **careTalk:** https://caretalk.onrender.com/ · source https://github.com/2000pd3rvr/careTalk
+- **Golden Green SC:** https://golden-green-fc.onrender.com/ · source https://github.com/2000pd3rvr/GoldenGreenFC
+- **Corner Cafe:** https://corner-cafe-kefh.onrender.com/ · source https://github.com/2000pd3rvr/corner_cafe
+- **SMOS:** https://smos.onrender.com/ · source https://github.com/2000pd3rvr/SMOS
+- **Auto Object Annotator:** https://auto-object-annotator.onrender.com/ · source https://github.com/2000pd3rvr/auto_object_annotator_0.0.4
+- **crushgame:** https://crushgame.onrender.com/ *(Render only)* · source https://github.com/2000pd3rvr/crushgame
+- **SPAD for Vision:** https://spad-for-vision.onrender.com/ *(Render only)* · source https://github.com/2000pd3rvr/spad_for_vision_space
+- **PIANDT:** https://piandt.onrender.com/ *(Render only)* · source https://github.com/2000pd3rvr/PIANDT
 
 ## WordPress articles
 
@@ -106,10 +120,11 @@ Public demos on Streamlit Community Cloud (Deborah Akuoko Minka / Deborah Akuoko
 4. **GitHub profile:** https://github.com/2000pd3rvr
 5. **GitLab profile:** https://gitlab.com/2000pd3rvr
 6. **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
-7. Profile README repo: https://github.com/2000pd3rvr/2000pd3rvr
-8. Profile hub (Pages): https://2000pd3rvr.github.io/ama-profile/
-9. Profile hub (repo): https://github.com/2000pd3rvr/ama-profile
-10. LINKS inventory: https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
+7. **Render live apps (8 demos — more than Streamlit):** https://deborahakuokominka.wordpress.com/#render-apps
+8. Profile README repo: https://github.com/2000pd3rvr/2000pd3rvr
+9. Profile hub (Pages): https://2000pd3rvr.github.io/ama-profile/
+10. Profile hub (repo): https://github.com/2000pd3rvr/ama-profile
+11. LINKS inventory: https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
 
 **Featured repositories:**
 
@@ -135,6 +150,7 @@ Public demos on Streamlit Community Cloud (Deborah Akuoko Minka / Deborah Akuoko
 - **GitHub profile hub:** https://github.com/2000pd3rvr/ama-profile
 - **GitHub Pages:** https://2000pd3rvr.github.io/ama-profile/
 - **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
+- **Render live apps (8 demos):** https://deborahakuokominka.wordpress.com/#render-apps
 - **Google Scholar:** https://scholar.google.co.uk/citations?hl=en&user=ab0EyjYAAAAJ
 
 ## WordPress articles
@@ -188,6 +204,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
+- **Render live apps (8 demos):** https://deborahakuokominka.wordpress.com/#render-apps
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -207,6 +224,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
+- **Render live apps (8 demos):** https://deborahakuokominka.wordpress.com/#render-apps
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -226,6 +244,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
+- **Render live apps (8 demos):** https://deborahakuokominka.wordpress.com/#render-apps
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -245,6 +264,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
+- **Render live apps (8 demos):** https://deborahakuokominka.wordpress.com/#render-apps
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -264,6 +284,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
+- **Render live apps (8 demos):** https://deborahakuokominka.wordpress.com/#render-apps
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -283,6 +304,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
+- **Render live apps (8 demos):** https://deborahakuokominka.wordpress.com/#render-apps
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -302,6 +324,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
+- **Render live apps (8 demos):** https://deborahakuokominka.wordpress.com/#render-apps
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -321,6 +344,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **ORCID:** https://orcid.org/0009-0008-6219-154X
 - **GitHub profile:** https://github.com/2000pd3rvr
 - **Streamlit apps hub:** https://streamlit-apps-hub.streamlit.app/
+- **Render live apps (8 demos):** https://deborahakuokominka.wordpress.com/#render-apps
 - **Hub:** https://2000pd3rvr.github.io/ama-profile/
 - **Hyphen landing:** https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
 - **Research index:** https://2000pd3rvr.github.io/ama-profile/research.html
@@ -429,3 +453,16 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 
 ## about_me
 - https://about.me/deborah_akuoko_minka_ama
+
+## gitlab_profile
+- https://gitlab.com/2000pd3rvr
+
+## render_app
+- https://auto-object-annotator.onrender.com
+- https://caretalk.onrender.com
+- https://corner-cafe-kefh.onrender.com
+- https://crushgame.onrender.com
+- https://golden-green-fc.onrender.com
+- https://piandt.onrender.com
+- https://smos.onrender.com
+- https://spad-for-vision.onrender.com
