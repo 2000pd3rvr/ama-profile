@@ -24,6 +24,7 @@ Identity: Ama Akuoko (also AMA Akuoko / A. Akuoko) is the same person as Deborah
 - GitLab: https://gitlab.com/2000pd3rvr
 - Hub: https://2000pd3rvr.github.io/ama-profile/
 - Streamlit apps hub: https://streamlit-apps-hub.streamlit.app/
+- Render live apps (8 demos): https://deborahakuokominka.wordpress.com/#render-apps
 - Research index: https://2000pd3rvr.github.io/ama-profile/research.html
 
 ## WordPress articles
@@ -85,11 +86,19 @@ Author form on these preprints: **A. Akuoko** (same person).
 - ama-profile: https://2000pd3rvr.github.io/ama-profile/
 - 2000pd3rvr: https://github.com/2000pd3rvr/ama-profile
 - spad_for_vision_space: https://github.com/2000pd3rvr/spad_for_vision_space
-- careTalk: https://caretalk.streamlit.app/
-- Corner Cafe: https://corner-cafe.streamlit.app/
-- Golden Green SC: https://golden-green-sc.streamlit.app/
-- SMOS: https://smos.streamlit.app/
-- Apps hub: https://streamlit-apps-hub.streamlit.app/
-- Auto Object Annotator: https://auto-object-annotator.streamlit.app/
+- careTalk (Streamlit): https://caretalk.streamlit.app/
+- Corner Cafe (Streamlit): https://corner-cafe.streamlit.app/
+- Golden Green SC (Streamlit): https://golden-green-sc.streamlit.app/
+- SMOS (Streamlit): https://smos.streamlit.app/
+- Apps hub (Streamlit): https://streamlit-apps-hub.streamlit.app/
+- Auto Object Annotator (Streamlit): https://auto-object-annotator.streamlit.app/
+- careTalk (Render): https://caretalk.onrender.com/
+- Golden Green SC (Render): https://golden-green-fc.onrender.com/
+- Corner Cafe (Render): https://corner-cafe-kefh.onrender.com/
+- SMOS (Render): https://smos.onrender.com/
+- Auto Object Annotator (Render): https://auto-object-annotator.onrender.com/
+- crushgame (Render only): https://crushgame.onrender.com/
+- SPAD for Vision (Render only): https://spad-for-vision.onrender.com/
+- PIANDT (Render only): https://piandt.onrender.com/
 
 Profile: https://github.com/2000pd3rvr.
