@@ -19,7 +19,7 @@
 
 Also **AMA Akuoko**. Focus: **signal processing, SPAD, object detection, material sensing, optical sensing, image annotation, segmentation, PyTorch**.
 
-## Peer-reviewed manuscripts
+## Preprints and peer-reviewed manuscripts
 
 **Optica Open (author: A. Akuoko — same person)**
 
@@ -43,7 +43,7 @@ Also **AMA Akuoko**. Focus: **signal processing, SPAD, object detection, materia
 
 **Research focus:** Researches signal processing, transient imaging, and intelligent sensing with single-photon avalanche diode (SPAD) sensors
 
-## Peer-reviewed manuscripts
+## Preprints and peer-reviewed manuscripts
 
 **Optica Open (author: A. Akuoko — same person)**
 
@@ -176,14 +176,14 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 
 ## Selected GitHub work
 
-- [2000pd3rvr/spad_for_vision_space](https://github.com/2000pd3rvr/spad_for_vision_space) — SPAD (single-photon avalanche diode) vision demos and experiments as a public space. ★3
-- [2000pd3rvr/2000pd3rvr](https://github.com/2000pd3rvr/2000pd3rvr) — GitHub profile README — signal processing researcher. ★1
-- [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko Minka / Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID ★2
-- [2000pd3rvr/crushgame](https://github.com/2000pd3rvr/crushgame) — Interactive crushgame demo (vision / UI experiment). ★2
-- [2000pd3rvr/appVideoDemos](https://github.com/2000pd3rvr/appVideoDemos) — Short computer-vision app demos and video walkthroughs. ★2
-- [2000pd3rvr/signal_detection_model](https://github.com/2000pd3rvr/signal_detection_model) — Signal / event detection models for computer vision pipelines (research + demos). ★3
-- [2000pd3rvr/auto_object_annotator_0.0.4](https://github.com/2000pd3rvr/auto_object_annotator_0.0.4) — Automatic object annotation for vision datasets — observe, label, and iterate without heavy tooling — live on Streamlit ★2
-- [2000pd3rvr/streamlit-apps-hub](https://github.com/2000pd3rvr/streamlit-apps-hub) — Apps hub — live on Streamlit.
+- [2000pd3rvr/deborah-akuoko-minka](https://github.com/2000pd3rvr/deborah-akuoko-minka) — Deborah Akuoko-Minka — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka/ ★1
+- [2000pd3rvr/deborah-akuoko-minka-research](https://github.com/2000pd3rvr/deborah-akuoko-minka-research) — Deborah Akuoko Minka — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka-research/ ★1
+- [2000pd3rvr/deborah-akuoko-edinburgh](https://github.com/2000pd3rvr/deborah-akuoko-edinburgh) — Deborah Akuoko — Edinburgh — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-edinburgh/ ★1
+- [2000pd3rvr/deborah-a-minka](https://github.com/2000pd3rvr/deborah-a-minka) — Deborah A. Minka — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-a-minka/ ★1
+- [2000pd3rvr/a-akuoko](https://github.com/2000pd3rvr/a-akuoko) — A. Akuoko — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/a-akuoko/ ★1
+- [2000pd3rvr/deborah-a-minka-research](https://github.com/2000pd3rvr/deborah-a-minka-research) — Deborah A. Minka — research — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-a-minka-research/ ★1
+- [2000pd3rvr/deborah-ewurama-akuoko-research](https://github.com/2000pd3rvr/deborah-ewurama-akuoko-research) — Deborah Ewurama Akuoko — research — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-ewurama-akuoko-research/ ★1
+- [2000pd3rvr/a-akuoko-machine-intelligence](https://github.com/2000pd3rvr/a-akuoko-machine-intelligence) — A. Akuoko — machine intelligence — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/a-akuoko-machine-intelligence/ ★1
 
 ## Featured projects
 
