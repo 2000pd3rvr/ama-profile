@@ -423,6 +423,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **GitHub repo:** https://github.com/2000pd3rvr/ama-akuoko-machine-intelligence
 - **GitHub repo:** https://github.com/2000pd3rvr/ama-akuoko-spad
 - **GitHub repo:** https://github.com/2000pd3rvr/ama-profile
+- **GitHub repo:** https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
 - **GitHub repo:** https://github.com/2000pd3rvr/appVideoDemos
 - **GitHub repo:** https://github.com/2000pd3rvr/auto_object_annotator_0.0.4
 - **GitHub repo:** https://github.com/2000pd3rvr/careTalk
@@ -447,24 +448,15 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **GitHub repo:** https://github.com/2000pd3rvr/streamlit-apps-hub
 
 ## Streamlit App
-- **Auto Object Annotator:** https://auto-object-annotator.streamlit.app
-  - https://auto-object-annotator.streamlit.app/
-  - https://auto-object-annotator.streamlit.app
-- **careTalk:** https://caretalk.streamlit.app
-  - https://caretalk.streamlit.app/
-  - https://caretalk.streamlit.app
-- **Corner Cafe:** https://corner-cafe.streamlit.app
-  - https://corner-cafe.streamlit.app/
-  - https://corner-cafe.streamlit.app
-- **Golden Green SC:** https://golden-green-sc.streamlit.app
-  - https://golden-green-sc.streamlit.app/
-  - https://golden-green-sc.streamlit.app
-- **SMOS:** https://smos.streamlit.app
-  - https://smos.streamlit.app/
-  - https://smos.streamlit.app
-- **Apps hub:** https://streamlit-apps-hub.streamlit.app
-  - https://streamlit-apps-hub.streamlit.app/
-  - https://streamlit-apps-hub.streamlit.app
+- **Streamlit · auto-object-annotator:** https://auto-object-annotator.streamlit.app
+- **Streamlit · caretalk:** https://caretalk.streamlit.app
+- **Streamlit · corner-cafe:** https://corner-cafe.streamlit.app
+- **Streamlit · golden-green-sc:** https://golden-green-sc.streamlit.app
+- **Streamlit · smos:** https://smos.streamlit.app
+- **Streamlit · streamlit-apps-hub:** https://streamlit-apps-hub.streamlit.app
+
+## Other
+- **CV link:** https://deborahakuokominka.wordpress.com
 
 ## about_me
 - https://about.me/deborah_akuoko_minka_ama
