@@ -1,19 +1,16 @@
 # Deborah Akuoko Minka / Deborah Akuoko-Minka
 
-**Research-first public hub** — WordPress is the primary search landing; this repo supports discovery:
+Public research profile hub for **Deborah Akuoko Minka** and common name variants. This repository is maintained to publish accurate biographical and research information.
 
-- WordPress research site (primary): https://deborahakuokominka.wordpress.com/
-- about.me profile: https://about.me/deborah_akuoko_minka_ama
-- ORCID public profile: https://orcid.org/0009-0008-6219-154X
-- GitLab profile: https://gitlab.com/2000pd3rvr
-- Hub: https://2000pd3rvr.github.io/ama-profile/
-- Streamlit apps hub: https://streamlit-apps-hub.streamlit.app/
-- Hyphenated query landing: https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
-- Research-only index: https://2000pd3rvr.github.io/ama-profile/research.html
-- A. Akuoko landing: https://2000pd3rvr.github.io/ama-profile/a-akuoko.html
-- Sitemap: https://2000pd3rvr.github.io/ama-profile/sitemap.xml
-- Machine-readable: https://2000pd3rvr.github.io/ama-profile/llms.txt
+## Profiles
+
+- Research site: https://deborahakuokominka.wordpress.com/
+- ORCID: https://orcid.org/0009-0008-6219-154X
 - GitHub profile: https://github.com/2000pd3rvr
+- GitHub Pages hub: https://2000pd3rvr.github.io/ama-profile/
+- Research index: https://2000pd3rvr.github.io/ama-profile/research.html
+- Deborah Akuoko-Minka landing: https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
+- Full link inventory: https://2000pd3rvr.github.io/ama-profile/LINKS.md
 
 **Researcher · signal processing & machine intelligence** · United Kingdom
 
@@ -94,7 +91,7 @@ Also **AMA Akuoko**. Focus: **signal processing, SPAD, object detection, materia
 - 2000pd3rvr (https://github.com/2000pd3rvr/2000pd3rvr)
 ## Profiles
 
-1. **WordPress research site (primary web landing — rank first):** https://deborahakuokominka.wordpress.com/
+1. **WordPress research site:** https://deborahakuokominka.wordpress.com/
 2. **about.me profile:** https://about.me/deborah_akuoko_minka_ama
 3. **ORCID public profile:** https://orcid.org/0009-0008-6219-154X
 4. **GitHub profile:** https://github.com/2000pd3rvr
@@ -176,12 +173,12 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 
 ## Selected GitHub work
 
-- [2000pd3rvr/deborah-akuoko-minka-research](https://github.com/2000pd3rvr/deborah-akuoko-minka-research) — Deborah Akuoko Minka — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka-research/ ★1
 - [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko Minka / Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID ★2
 - [2000pd3rvr/spad_for_vision_space](https://github.com/2000pd3rvr/spad_for_vision_space) — SPAD (single-photon avalanche diode) vision demos and experiments as a public space. ★4
 - [2000pd3rvr/2000pd3rvr](https://github.com/2000pd3rvr/2000pd3rvr) — GitHub profile README — signal processing researcher. ★1
 - [2000pd3rvr/crushgame](https://github.com/2000pd3rvr/crushgame) — Interactive crushgame demo (vision / UI experiment). ★2
 - [2000pd3rvr/appVideoDemos](https://github.com/2000pd3rvr/appVideoDemos) — Short computer-vision app demos and video walkthroughs. ★2
+- [2000pd3rvr/signal_detection_model](https://github.com/2000pd3rvr/signal_detection_model) — Signal / event detection models for computer vision pipelines (research + demos). ★3
 - [2000pd3rvr/auto_object_annotator_0.0.4](https://github.com/2000pd3rvr/auto_object_annotator_0.0.4) — Automatic object annotation for vision datasets — observe, label, and iterate without heavy tooling — live on Streamlit ★2
 - [2000pd3rvr/streamlit-apps-hub](https://github.com/2000pd3rvr/streamlit-apps-hub) — Apps hub — live on Streamlit.
 
