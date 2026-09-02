@@ -22,11 +22,9 @@ These public GitHub and GitHub Pages URLs document the research and engineering 
 | Ama Akuoko — SPAD sensing | https://github.com/2000pd3rvr/ama-akuoko-spad | https://2000pd3rvr.github.io/ama-akuoko-spad/ |
 | Deborah Akuoko — Edinburgh | https://github.com/2000pd3rvr/deborah-akuoko-edinburgh | https://2000pd3rvr.github.io/deborah-akuoko-edinburgh/ |
 
-## Hub indexes
+## Profile pages
 
-- **WordPress (primary landing):** https://deborahakuokominka.wordpress.com/
-- **about.me:** https://about.me/deborah_akuoko_minka_ama
-- **GitLab:** https://gitlab.com/2000pd3rvr
-- Canonical hub: https://2000pd3rvr.github.io/ama-profile/
-- LINKS.md: https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
+- Research site: https://deborahakuokominka.wordpress.com/
+- Research hub: https://2000pd3rvr.github.io/ama-profile/
+- LINKS inventory: https://github.com/2000pd3rvr/ama-profile/blob/main/LINKS.md
 - ORCID: https://orcid.org/0009-0008-6219-154X

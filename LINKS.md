@@ -129,7 +129,7 @@ Public demos on Render (8 apps — more than Streamlit). Includes crushgame, SPA
 - 2000pd3rvr (https://github.com/2000pd3rvr/2000pd3rvr)
 ## Profiles
 
-1. **WordPress research site (primary web landing — rank first):** https://deborahakuokominka.wordpress.com/
+1. **WordPress research site:** https://deborahakuokominka.wordpress.com/
 2. **about.me profile:** https://about.me/deborah_akuoko_minka_ama
 3. **ORCID public profile:** https://orcid.org/0009-0008-6219-154X
 4. **GitHub profile:** https://github.com/2000pd3rvr
