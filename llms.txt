@@ -56,6 +56,41 @@ Identity: Ama Akuoko (also AMA Akuoko / A. Akuoko) is the same person as Deborah
 - models (https://github.com/2000pd3rvr/models)
 - datasets (https://github.com/2000pd3rvr/datasets)
 - 2000pd3rvr (https://github.com/2000pd3rvr/2000pd3rvr)
+
+## Hugging Face models
+- mvplus/spatiotemporal (https://huggingface.co/mvplus/spatiotemporal)
+- mvplus/material_detection_head (https://huggingface.co/mvplus/material_detection_head)
+- mvplus/material_purity (https://huggingface.co/mvplus/material_purity)
+- mvplus/flat_surface (https://huggingface.co/mvplus/flat_surface)
+- mvplus/dinov3 (https://huggingface.co/mvplus/dinov3)
+- mvplus/yolov8 (https://huggingface.co/mvplus/yolov8)
+- mvplus/yolov3 (https://huggingface.co/mvplus/yolov3)
+- 0001AMA/profile-hub (https://huggingface.co/0001AMA/profile-hub)
+- 0001AMA/manuscripts (https://huggingface.co/0001AMA/manuscripts)
+- 0001AMA/Prethesis_drafts (https://huggingface.co/0001AMA/Prethesis_drafts)
+
+## Hugging Face datasets
+- 0001AMA/multimodal_data_annotator_dataset (https://huggingface.co/0001AMA/multimodal_data_annotator_dataset)
+- mvplus/val_natural_material_detection (https://huggingface.co/mvplus/val_natural_material_detection)
+- mvplus/testmages_spatiotemporal (https://huggingface.co/mvplus/testmages_spatiotemporal)
+- mvplus/testmages__milkpurity (https://huggingface.co/mvplus/testmages__milkpurity)
+- mvplus/testmages__flatsurface (https://huggingface.co/mvplus/testmages__flatsurface)
+- mvplus/testmages_dino (https://huggingface.co/mvplus/testmages_dino)
+- mvplus/testmages__yolov8 (https://huggingface.co/mvplus/testmages__yolov8)
+- mvplus/testmages__yolov3 (https://huggingface.co/mvplus/testmages__yolov3)
+
+## Hugging Face Spaces
+- mvplus/spad_for_vision (https://huggingface.co/spaces/mvplus/spad_for_vision · live https://mvplus-spad-for-vision.hf.space)
+- 0001AMA/careTalk (https://huggingface.co/spaces/0001AMA/careTalk)
+- 0001AMA/careTalk-demo (https://huggingface.co/spaces/0001AMA/careTalk-demo · live https://0001ama-caretalk-demo.static.hf.space/app.html)
+- 0001AMA/auto_object_annotator_0.0.4 (https://huggingface.co/spaces/0001AMA/auto_object_annotator_0.0.4)
+- 0001AMA/GoldenGreenFC (https://huggingface.co/spaces/0001AMA/GoldenGreenFC)
+- 0001AMA/crushgame (https://huggingface.co/spaces/0001AMA/crushgame)
+- 0001AMA/PIANDT (https://huggingface.co/spaces/0001AMA/PIANDT)
+- 0001AMA/PIANDT-THESIS (https://huggingface.co/spaces/0001AMA/PIANDT-THESIS)
+- 0001AMA/PIANDT-thetex (https://huggingface.co/spaces/0001AMA/PIANDT-thetex)
+- 0001AMA/corner_cafe (https://huggingface.co/spaces/0001AMA/corner_cafe)
+
 ## Research Zone / Research Square preprints
 
 Author form on these preprints: **A. Akuoko** (same person).

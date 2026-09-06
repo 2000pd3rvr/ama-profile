@@ -89,6 +89,41 @@ Also **AMA Akuoko**. Focus: **signal processing, SPAD, object detection, materia
 - models (https://github.com/2000pd3rvr/models)
 - datasets (https://github.com/2000pd3rvr/datasets)
 - 2000pd3rvr (https://github.com/2000pd3rvr/2000pd3rvr)
+
+## Hugging Face models
+- mvplus/spatiotemporal (https://huggingface.co/mvplus/spatiotemporal)
+- mvplus/material_detection_head (https://huggingface.co/mvplus/material_detection_head)
+- mvplus/material_purity (https://huggingface.co/mvplus/material_purity)
+- mvplus/flat_surface (https://huggingface.co/mvplus/flat_surface)
+- mvplus/dinov3 (https://huggingface.co/mvplus/dinov3)
+- mvplus/yolov8 (https://huggingface.co/mvplus/yolov8)
+- mvplus/yolov3 (https://huggingface.co/mvplus/yolov3)
+- 0001AMA/profile-hub (https://huggingface.co/0001AMA/profile-hub)
+- 0001AMA/manuscripts (https://huggingface.co/0001AMA/manuscripts)
+- 0001AMA/Prethesis_drafts (https://huggingface.co/0001AMA/Prethesis_drafts)
+
+## Hugging Face datasets
+- 0001AMA/multimodal_data_annotator_dataset (https://huggingface.co/0001AMA/multimodal_data_annotator_dataset)
+- mvplus/val_natural_material_detection (https://huggingface.co/mvplus/val_natural_material_detection)
+- mvplus/testmages_spatiotemporal (https://huggingface.co/mvplus/testmages_spatiotemporal)
+- mvplus/testmages__milkpurity (https://huggingface.co/mvplus/testmages__milkpurity)
+- mvplus/testmages__flatsurface (https://huggingface.co/mvplus/testmages__flatsurface)
+- mvplus/testmages_dino (https://huggingface.co/mvplus/testmages_dino)
+- mvplus/testmages__yolov8 (https://huggingface.co/mvplus/testmages__yolov8)
+- mvplus/testmages__yolov3 (https://huggingface.co/mvplus/testmages__yolov3)
+
+## Hugging Face Spaces
+- mvplus/spad_for_vision (https://huggingface.co/spaces/mvplus/spad_for_vision · live https://mvplus-spad-for-vision.hf.space)
+- 0001AMA/careTalk (https://huggingface.co/spaces/0001AMA/careTalk)
+- 0001AMA/careTalk-demo (https://huggingface.co/spaces/0001AMA/careTalk-demo · live https://0001ama-caretalk-demo.static.hf.space/app.html)
+- 0001AMA/auto_object_annotator_0.0.4 (https://huggingface.co/spaces/0001AMA/auto_object_annotator_0.0.4)
+- 0001AMA/GoldenGreenFC (https://huggingface.co/spaces/0001AMA/GoldenGreenFC)
+- 0001AMA/crushgame (https://huggingface.co/spaces/0001AMA/crushgame)
+- 0001AMA/PIANDT (https://huggingface.co/spaces/0001AMA/PIANDT)
+- 0001AMA/PIANDT-THESIS (https://huggingface.co/spaces/0001AMA/PIANDT-THESIS)
+- 0001AMA/PIANDT-thetex (https://huggingface.co/spaces/0001AMA/PIANDT-thetex)
+- 0001AMA/corner_cafe (https://huggingface.co/spaces/0001AMA/corner_cafe)
+
 ## Profiles
 
 1. **WordPress research site:** https://deborahakuokominka.wordpress.com/
@@ -173,14 +208,14 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 
 ## Selected GitHub work
 
+- [2000pd3rvr/deborah-akuoko-minka-research](https://github.com/2000pd3rvr/deborah-akuoko-minka-research) — Deborah Akuoko Minka — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka-research/ ★1
 - [2000pd3rvr/deborah-akuoko-minka](https://github.com/2000pd3rvr/deborah-akuoko-minka) — Deborah Akuoko-Minka — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka/ ★1
-- [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko Minka / Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID ★2
-- [2000pd3rvr/spad_for_vision_space](https://github.com/2000pd3rvr/spad_for_vision_space) — SPAD (single-photon avalanche diode) vision demos and experiments as a public space. ★4
-- [2000pd3rvr/2000pd3rvr](https://github.com/2000pd3rvr/2000pd3rvr) — GitHub profile README — signal processing researcher. ★1
-- [2000pd3rvr/crushgame](https://github.com/2000pd3rvr/crushgame) — Interactive crushgame demo (vision / UI experiment). ★2
-- [2000pd3rvr/appVideoDemos](https://github.com/2000pd3rvr/appVideoDemos) — Short computer-vision app demos and video walkthroughs. ★2
-- [2000pd3rvr/signal_detection_model](https://github.com/2000pd3rvr/signal_detection_model) — Signal / event detection models for computer vision pipelines (research + demos). ★3
-- [2000pd3rvr/auto_object_annotator_0.0.4](https://github.com/2000pd3rvr/auto_object_annotator_0.0.4) — Automatic object annotation for vision datasets — observe, label, and iterate without heavy tooling — live on Streamlit ★2
+- [2000pd3rvr/deborah-akuoko](https://github.com/2000pd3rvr/deborah-akuoko) — Deborah Akuoko — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-akuoko/ ★1
+- [2000pd3rvr/deborah-ewurama-akuoko](https://github.com/2000pd3rvr/deborah-ewurama-akuoko) — Deborah Ewurama Akuoko — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-ewurama-akuoko/ ★1
+- [2000pd3rvr/deborah-a-minka](https://github.com/2000pd3rvr/deborah-a-minka) — Deborah A. Minka — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-a-minka/ ★1
+- [2000pd3rvr/ama-akuoko](https://github.com/2000pd3rvr/ama-akuoko) — Ama Akuoko — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/ama-akuoko/ ★1
+- [2000pd3rvr/a-akuoko](https://github.com/2000pd3rvr/a-akuoko) — A. Akuoko — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/a-akuoko/ ★1
+- [2000pd3rvr/deborah-ewurama-akuoko-research](https://github.com/2000pd3rvr/deborah-ewurama-akuoko-research) — Deborah Ewurama Akuoko — research — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-ewurama-akuoko-research/ ★1
 
 ## Featured projects
 
@@ -190,3 +225,21 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - [SMOS](https://github.com/2000pd3rvr/SMOS) — SMOS — live on Streamlit. ([demo/home](https://smos.streamlit.app/))
 - [streamlit-apps-hub](https://github.com/2000pd3rvr/streamlit-apps-hub) — Apps hub — live on Streamlit. ([demo/home](https://streamlit-apps-hub.streamlit.app/))
 - [auto_object_annotator_0.0.4](https://github.com/2000pd3rvr/auto_object_annotator_0.0.4) — Automatic object annotation for vision datasets — observe, label, and iterate without heavy tooling — live on Streamlit ([demo/home](https://auto-object-annotator.streamlit.app/))
+
+## Hugging Face Spaces
+
+- [0001AMA/GoldenGreenFC](https://huggingface.co/spaces/0001AMA/GoldenGreenFC) — Golden Green SC
+- [0001AMA/careTalk](https://huggingface.co/spaces/0001AMA/careTalk) — careTalk
+- [0001AMA/careTalk-demo](https://huggingface.co/spaces/0001AMA/careTalk-demo) — careTalk demo
+- [0001AMA/crushgame](https://huggingface.co/spaces/0001AMA/crushgame) — Crushgame
+- [0001AMA/auto_object_annotator_0.0.4](https://huggingface.co/spaces/0001AMA/auto_object_annotator_0.0.4) — Auto Object Annotator
+- [0001AMA/PIANDT](https://huggingface.co/spaces/0001AMA/PIANDT) — PIANDT
+- [0001AMA/SMOS](https://huggingface.co/spaces/0001AMA/SMOS)
+- [0001AMA/corner_cafe](https://huggingface.co/spaces/0001AMA/corner_cafe)
+- [0001AMA/PIANDT-thetex](https://huggingface.co/spaces/0001AMA/PIANDT-thetex)
+- [0001AMA/PIANDT-THESIS](https://huggingface.co/spaces/0001AMA/PIANDT-THESIS)
+
+## Contact / orgs
+
+- Machine Vision Plus / mvplus: https://huggingface.co/mvplus
+- Cross-link: GitHub ↔ Hugging Face profiles above
