@@ -462,7 +462,6 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - **GitHub repo:** https://github.com/2000pd3rvr/appVideoDemos
 - **GitHub repo:** https://github.com/2000pd3rvr/auto_object_annotator_0.0.4
 - **GitHub repo:** https://github.com/2000pd3rvr/careTalk
-- **GitHub repo:** https://github.com/2000pd3rvr/corner_cafe
 - **GitHub repo:** https://github.com/2000pd3rvr/crushgame
 - **GitHub repo:** https://github.com/2000pd3rvr/datasets
 - **GitHub repo:** https://github.com/2000pd3rvr/deborah-a-minka
