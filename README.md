@@ -122,7 +122,7 @@ Also **AMA Akuoko**. Focus: **signal processing, SPAD, object detection, materia
 - 0001AMA/PIANDT (https://huggingface.co/spaces/0001AMA/PIANDT)
 - 0001AMA/PIANDT-THESIS (https://huggingface.co/spaces/0001AMA/PIANDT-THESIS)
 - 0001AMA/PIANDT-thetex (https://huggingface.co/spaces/0001AMA/PIANDT-thetex)
-- 0001AMA/corner_cafe (https://huggingface.co/spaces/0001AMA/corner_cafe)
+- 0001AMA/hah_restaurant (https://huggingface.co/spaces/0001AMA/hah_restaurant)
 
 ## Profiles
 
@@ -142,7 +142,7 @@ Also **AMA Akuoko**. Focus: **signal processing, SPAD, object detection, materia
 
 - [careTalk](https://github.com/2000pd3rvr/careTalk) — AI-assisted care notes for health assistants and admins — live on Streamlit. · [demo/home](https://caretalk.streamlit.app/)
 - [GoldenGreenFC](https://github.com/2000pd3rvr/GoldenGreenFC) — Golden Green Sporting Club public site — live on Streamlit. · [demo/home](https://golden-green-sc.streamlit.app/)
-- [corner_cafe](https://github.com/2000pd3rvr/corner_cafe) — Corner Cafe hospitality site — live on Streamlit. · [demo/home](https://corner-cafe.streamlit.app/)
+- [hah_restaurant](https://github.com/2000pd3rvr/hah_restaurant) — HAH restaurant hospitality site — live on Streamlit. · [demo/home](https://hah-restaurant.streamlit.app/)
 - [SMOS](https://github.com/2000pd3rvr/SMOS) — SMOS — live on Streamlit. · [demo/home](https://smos.streamlit.app/)
 - [streamlit-apps-hub](https://github.com/2000pd3rvr/streamlit-apps-hub) — Apps hub — live on Streamlit. · [demo/home](https://streamlit-apps-hub.streamlit.app/)
 - [auto_object_annotator_0.0.4](https://github.com/2000pd3rvr/auto_object_annotator_0.0.4) — Automatic object annotation for vision datasets — observe, label, and iterate without heavy tooling — live on Streamlit · [demo/home](https://auto-object-annotator.streamlit.app/)
@@ -208,10 +208,10 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 
 ## Selected GitHub work
 
-- [2000pd3rvr/deborah-akuoko-minka](https://github.com/2000pd3rvr/deborah-akuoko-minka) — Deborah Akuoko-Minka — SPAD and machine-intelligence researcher. Public profiles: https://2000pd3rvr.github.io/deborah-akuoko-minka/ ★1
-- [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko Minka / Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID ★2
+- [2000pd3rvr/SMOS](https://github.com/2000pd3rvr/SMOS) — SMOS — live on Streamlit. ★2
 - [2000pd3rvr/spad_for_vision_space](https://github.com/2000pd3rvr/spad_for_vision_space) — SPAD (single-photon avalanche diode) vision demos and experiments as a public space. ★4
 - [2000pd3rvr/2000pd3rvr](https://github.com/2000pd3rvr/2000pd3rvr) — GitHub profile README — signal processing researcher. ★1
+- [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko Minka / Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID ★2
 - [2000pd3rvr/crushgame](https://github.com/2000pd3rvr/crushgame) — Interactive crushgame demo (vision / UI experiment). ★2
 - [2000pd3rvr/appVideoDemos](https://github.com/2000pd3rvr/appVideoDemos) — Short computer-vision app demos and video walkthroughs. ★2
 - [2000pd3rvr/signal_detection_model](https://github.com/2000pd3rvr/signal_detection_model) — Signal / event detection models for computer vision pipelines (research + demos). ★3
@@ -221,7 +221,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 
 - [careTalk](https://github.com/2000pd3rvr/careTalk) — AI-assisted care notes for health assistants and admins — live on Streamlit. ([demo/home](https://caretalk.streamlit.app/))
 - [GoldenGreenFC](https://github.com/2000pd3rvr/GoldenGreenFC) — Golden Green Sporting Club public site — live on Streamlit. ([demo/home](https://golden-green-sc.streamlit.app/))
-- [corner_cafe](https://github.com/2000pd3rvr/corner_cafe) — Corner Cafe hospitality site — live on Streamlit. ([demo/home](https://corner-cafe.streamlit.app/))
+- [hah_restaurant](https://github.com/2000pd3rvr/hah_restaurant) — HAH restaurant hospitality site — live on Streamlit. ([demo/home](https://hah-restaurant.streamlit.app/))
 - [SMOS](https://github.com/2000pd3rvr/SMOS) — SMOS — live on Streamlit. ([demo/home](https://smos.streamlit.app/))
 - [streamlit-apps-hub](https://github.com/2000pd3rvr/streamlit-apps-hub) — Apps hub — live on Streamlit. ([demo/home](https://streamlit-apps-hub.streamlit.app/))
 - [auto_object_annotator_0.0.4](https://github.com/2000pd3rvr/auto_object_annotator_0.0.4) — Automatic object annotation for vision datasets — observe, label, and iterate without heavy tooling — live on Streamlit ([demo/home](https://auto-object-annotator.streamlit.app/))
@@ -235,7 +235,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 - [0001AMA/auto_object_annotator_0.0.4](https://huggingface.co/spaces/0001AMA/auto_object_annotator_0.0.4) — Auto Object Annotator
 - [0001AMA/PIANDT](https://huggingface.co/spaces/0001AMA/PIANDT) — PIANDT
 - [0001AMA/SMOS](https://huggingface.co/spaces/0001AMA/SMOS)
-- [0001AMA/corner_cafe](https://huggingface.co/spaces/0001AMA/corner_cafe)
+- [0001AMA/hah_restaurant](https://huggingface.co/spaces/0001AMA/hah_restaurant)
 - [0001AMA/PIANDT-thetex](https://huggingface.co/spaces/0001AMA/PIANDT-thetex)
 - [0001AMA/PIANDT-THESIS](https://huggingface.co/spaces/0001AMA/PIANDT-THESIS)
 

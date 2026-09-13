@@ -89,7 +89,7 @@ Identity: Ama Akuoko (also AMA Akuoko / A. Akuoko) is the same person as Deborah
 - 0001AMA/PIANDT (https://huggingface.co/spaces/0001AMA/PIANDT)
 - 0001AMA/PIANDT-THESIS (https://huggingface.co/spaces/0001AMA/PIANDT-THESIS)
 - 0001AMA/PIANDT-thetex (https://huggingface.co/spaces/0001AMA/PIANDT-thetex)
-- 0001AMA/corner_cafe (https://huggingface.co/spaces/0001AMA/corner_cafe)
+- 0001AMA/hah_restaurant (https://huggingface.co/spaces/0001AMA/hah_restaurant)
 
 ## Research Zone / Research Square preprints
 
@@ -110,7 +110,7 @@ Author form on these preprints: **A. Akuoko** (same person).
 ## Open tech (from GitHub profile projects)
 - careTalk: https://caretalk.streamlit.app/
 - GoldenGreenFC: https://golden-green-sc.streamlit.app/
-- corner_cafe: https://corner-cafe.streamlit.app/
+- hah_restaurant: https://hah-restaurant.streamlit.app/
 - SMOS: https://smos.streamlit.app/
 - streamlit-apps-hub: https://streamlit-apps-hub.streamlit.app/
 - auto_object_annotator_0.0.4: https://auto-object-annotator.streamlit.app/
@@ -121,14 +121,14 @@ Author form on these preprints: **A. Akuoko** (same person).
 - 2000pd3rvr: https://github.com/2000pd3rvr/ama-profile
 - spad_for_vision_space: https://github.com/2000pd3rvr/spad_for_vision_space
 - careTalk (Streamlit): https://caretalk.streamlit.app/
-- Corner Cafe (Streamlit): https://corner-cafe.streamlit.app/
+- HAH restaurant (Streamlit): https://hah-restaurant.streamlit.app/
 - Golden Green SC (Streamlit): https://golden-green-sc.streamlit.app/
 - SMOS (Streamlit): https://smos.streamlit.app/
 - Apps hub (Streamlit): https://streamlit-apps-hub.streamlit.app/
 - Auto Object Annotator (Streamlit): https://auto-object-annotator.streamlit.app/
 - careTalk (Render): https://caretalk.onrender.com/
 - Golden Green SC (Render): https://golden-green-fc.onrender.com/
-- Corner Cafe (Render): https://corner-cafe-kefh.onrender.com/
+- HAH restaurant (Render): https://hah-restaurant.onrender.com/
 - SMOS (Render): https://smos.onrender.com/
 - Auto Object Annotator (Render): https://auto-object-annotator.onrender.com/
 - crushgame (Render only): https://crushgame.onrender.com/
