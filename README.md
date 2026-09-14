@@ -208,7 +208,7 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 
 ## Selected GitHub work
 
-- [2000pd3rvr/SMOS](https://github.com/2000pd3rvr/SMOS) — SMOS — live on Streamlit. ★2
+- [2000pd3rvr/streamlit-apps-hub](https://github.com/2000pd3rvr/streamlit-apps-hub) — Apps hub — live on Streamlit.
 - [2000pd3rvr/spad_for_vision_space](https://github.com/2000pd3rvr/spad_for_vision_space) — SPAD (single-photon avalanche diode) vision demos and experiments as a public space. ★4
 - [2000pd3rvr/2000pd3rvr](https://github.com/2000pd3rvr/2000pd3rvr) — GitHub profile README — signal processing researcher. ★1
 - [2000pd3rvr/ama-profile](https://github.com/2000pd3rvr/ama-profile) — Canonical research hub — Deborah Akuoko Minka / Deborah Akuoko-Minka / A. Akuoko · Optica Open · Scholar · ORCID ★2
