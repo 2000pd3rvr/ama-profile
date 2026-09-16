@@ -39,7 +39,7 @@ Researcher in signal processing, machine intelligence, and SPAD sensing.
 Public demos on Streamlit Community Cloud (Deborah Akuoko Minka / Deborah Akuoko-Minka):
 
 - **careTalk:** https://caretalk.streamlit.app/ · source https://github.com/2000pd3rvr/careTalk
-- **Corner Cafe:** https://corner-cafe.streamlit.app/ · source https://github.com/2000pd3rvr/corner_cafe
+- **HAH restaurant:** https://hah-restaurant.streamlit.app/ · source https://github.com/2000pd3rvr/hah_restaurant
 - **Golden Green SC:** https://golden-green-sc.streamlit.app/ · source https://github.com/2000pd3rvr/GoldenGreenFC
 - **SMOS:** https://smos.streamlit.app/ · source https://github.com/2000pd3rvr/SMOS
 - **Apps hub:** https://streamlit-apps-hub.streamlit.app/ · source https://github.com/2000pd3rvr/streamlit-apps-hub
@@ -51,7 +51,7 @@ Public demos on Render (8 apps — more than Streamlit). Includes crushgame, SPA
 
 - **careTalk:** https://caretalk.onrender.com/ · source https://github.com/2000pd3rvr/careTalk
 - **Golden Green SC:** https://golden-green-fc.onrender.com/ · source https://github.com/2000pd3rvr/GoldenGreenFC
-- **Corner Cafe:** https://corner-cafe-kefh.onrender.com/ · source https://github.com/2000pd3rvr/corner_cafe
+- **HAH restaurant:** https://hah-restaurant.onrender.com/ · source https://github.com/2000pd3rvr/hah_restaurant
 - **SMOS:** https://smos.onrender.com/ · source https://github.com/2000pd3rvr/SMOS
 - **Auto Object Annotator:** https://auto-object-annotator.onrender.com/ · source https://github.com/2000pd3rvr/auto_object_annotator_0.0.4
 - **crushgame:** https://crushgame.onrender.com/ *(Render only)* · source https://github.com/2000pd3rvr/crushgame
@@ -160,7 +160,7 @@ Public demos on Render (8 apps — more than Streamlit). Includes crushgame, SPA
 - 0001AMA/PIANDT (https://huggingface.co/spaces/0001AMA/PIANDT)
 - 0001AMA/PIANDT-THESIS (https://huggingface.co/spaces/0001AMA/PIANDT-THESIS)
 - 0001AMA/PIANDT-thetex (https://huggingface.co/spaces/0001AMA/PIANDT-thetex)
-- 0001AMA/corner_cafe (https://huggingface.co/spaces/0001AMA/corner_cafe)
+- 0001AMA/hah_restaurant (https://huggingface.co/spaces/0001AMA/hah_restaurant)
 
 ## Profiles
 
@@ -180,7 +180,7 @@ Public demos on Render (8 apps — more than Streamlit). Includes crushgame, SPA
 
 - [careTalk](https://github.com/2000pd3rvr/careTalk) — AI-assisted care notes for health assistants and admins — live on Streamlit. · [demo/home](https://caretalk.streamlit.app/)
 - [GoldenGreenFC](https://github.com/2000pd3rvr/GoldenGreenFC) — Golden Green Sporting Club public site — live on Streamlit. · [demo/home](https://golden-green-sc.streamlit.app/)
-- [corner_cafe](https://github.com/2000pd3rvr/corner_cafe) — Corner Cafe hospitality site — live on Streamlit. · [demo/home](https://corner-cafe.streamlit.app/)
+- [hah_restaurant](https://github.com/2000pd3rvr/hah_restaurant) — HAH restaurant hospitality site — live on Streamlit. · [demo/home](https://hah-restaurant.streamlit.app/)
 - [SMOS](https://github.com/2000pd3rvr/SMOS) — SMOS — live on Streamlit. · [demo/home](https://smos.streamlit.app/)
 - [streamlit-apps-hub](https://github.com/2000pd3rvr/streamlit-apps-hub) — Apps hub — live on Streamlit. · [demo/home](https://streamlit-apps-hub.streamlit.app/)
 - [auto_object_annotator_0.0.4](https://github.com/2000pd3rvr/auto_object_annotator_0.0.4) — Automatic object annotation for vision datasets — observe, label, and iterate without heavy tooling — live on Streamlit · [demo/home](https://auto-object-annotator.streamlit.app/)
@@ -484,8 +484,8 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 ## Streamlit App
 - **Streamlit · auto-object-annotator:** https://auto-object-annotator.streamlit.app
 - **Streamlit · caretalk:** https://caretalk.streamlit.app
-- **Streamlit · corner-cafe:** https://corner-cafe.streamlit.app
 - **Streamlit · golden-green-sc:** https://golden-green-sc.streamlit.app
+- **Streamlit · hah-restaurant:** https://hah-restaurant.streamlit.app
 - **Streamlit · smos:** https://smos.streamlit.app
 - **Streamlit · streamlit-apps-hub:** https://streamlit-apps-hub.streamlit.app
 
@@ -501,9 +501,9 @@ If a summary mentions **Ama Akuoko** with GitHub or research artefacts, it refer
 ## render_app
 - https://auto-object-annotator.onrender.com
 - https://caretalk.onrender.com
-- https://corner-cafe-kefh.onrender.com
 - https://crushgame.onrender.com
 - https://golden-green-fc.onrender.com
+- https://hah-restaurant.onrender.com
 - https://piandt.onrender.com
 - https://smos.onrender.com
 - https://spad-for-vision.onrender.com
